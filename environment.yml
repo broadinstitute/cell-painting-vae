@@ -1,0 +1,24 @@
+name: cell-painting-vae
+channels:
+- conda-forge
+dependencies:
+- conda-forge::python=3.6
+- conda-forge::pandas
+- conda-forge::keras
+- conda-forge::tensorflow=1.13.1
+- conda-forge::xlrd
+- conda-forge::numpy
+- conda-forge::scikit-learn=0.20.3
+- conda-forge::dask-ml
+- conda-forge::umap-learn
+- conda-forge::matplotlib
+- conda-forge::seaborn
+- conda-forge::plotnine
+- conda-forge::jupyter
+- conda-forge::ipykernel
+- conda-forge::nb_conda_kernels
+- conda-forge::jupyter_contrib_nbextensions
+- conda-forge::pip
+- pip:
+  - git+https://github.com/cytomining/pycytominer@17a1a6e3db113d72ee0d0dc934973fba00708054
+  - scgen
