@@ -2,12 +2,13 @@ import pathlib
 import pandas as pd
 import sklearn.preprocessing
 from pycytominer.cyto_utils import infer_cp_features
-
+import sys
 
 def load_data(data_splits):
     data = {}
     for data_split in data_splits:
-        file = pathlib.Path("data", f"cell_painting_{data_split}.tsv.gz")
+        print(sys.path)
+        file = pathlib.Path("../0.preprocessing/data", f"cell_painting_{data_split}.tsv.gz")
         data[data_split] = pd.read_csv(file, sep="\t")
 
     return data
