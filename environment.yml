@@ -6,13 +6,15 @@ dependencies:
 - conda-forge::pandas
 - conda-forge::keras
 - conda-forge::tensorflow
+- conda-forge::scipy 
 - conda-forge::xlrd
 - conda-forge::numpy
-- conda-forge::scikit-learn
+- conda-forge::scikit-learn=0.20.3
 - conda-forge::dask-ml
 - conda-forge::umap-learn
 - conda-forge::matplotlib
 - conda-forge::seaborn
+- conda-forge::hiplot
 - conda-forge::plotnine
 - conda-forge::jupyter
 - conda-forge::ipykernel
