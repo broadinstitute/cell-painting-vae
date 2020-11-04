@@ -1,7 +1,8 @@
 from tensorflow.keras import backend as K
 from kerastuner import HyperModel
 from kerastuner.tuners import BayesianOptimization
-
+import sys
+sys.path.append('../scripts')
 from vae import VAE
 
 
