@@ -3,3 +3,4 @@ __pycache__/
 parameter_sweep/
 parameter_sweepBAD/
 data/
+data_old/
