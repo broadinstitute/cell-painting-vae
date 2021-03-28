@@ -42,7 +42,8 @@ class VAE:
 
     def compile_loss(self):
         if self.loss == "binary_crossentropy":
-            loss_fxn = binary_crossentropy(self.inputs, self.cycle)
+#             loss_fxn = binary_crossentropy(self.inputs, self.cycle)
+            loss_fxn = mse(self.inputs, self.cycle)
         elif self.loss == "mse":
             loss_fxn = mse(self.inputs, self.cycle)
 

@@ -54,22 +54,22 @@ def connect_encoder(input_dim, latent_dim, architecture=[], batch_norm=True):
     for idx in range(0, len(architecture)):
         node_size = architecture[idx]
         if idx == 0:
-            nodes[idx] = Dense(node_size, activation="relu")(nodes["inputs"])
+            nodes[idx] = Dense(node_size, activation="tanh")(nodes["inputs"])
         else:
-            nodes[idx] = Dense(node_size, activation="relu")(nodes[idx - 1])
+            nodes[idx] = Dense(node_size, activation="tanh")(nodes[idx - 1])
 
     z_mean = Dense(latent_dim, kernel_initializer="glorot_uniform")(nodes[idx])
     z_log_var = Dense(latent_dim, kernel_initializer="glorot_uniform")(nodes[idx])
 
     if batch_norm:
         z_mean_batchnorm = BatchNormalization()(z_mean)
-        nodes["z_mean"] = Activation("relu")(z_mean_batchnorm)
+        nodes["z_mean"] = Activation("tanh")(z_mean_batchnorm)
 
         z_log_var_batchnorm = BatchNormalization()(z_log_var)
-        nodes["z_log_var"] = Activation("relu")(z_log_var_batchnorm)
+        nodes["z_log_var"] = Activation("tanh")(z_log_var_batchnorm)
     else:
-        nodes["z_mean"] = Activation("relu")(z_mean)
-        nodes["z_log_var"] = Activation("relu")(z_log_var)
+        nodes["z_mean"] = Activation("tanh")(z_mean)
+        nodes["z_log_var"] = Activation("tanh")(z_log_var)
 
     nodes["z"] = Lambda(sampling, output_shape=(latent_dim,))(
         [nodes["z_mean"], nodes["z_log_var"]]
@@ -92,13 +92,14 @@ def connect_decoder(input_dim, latent_dim, architecture=[]):
         node_size = architecture[idx]
         if idx == 0:
             nodes[idx] = Dense(
-                node_size, activation="relu", kernel_initializer="glorot_uniform"
+                node_size, activation="tanh", kernel_initializer="glorot_uniform"
             )(nodes["inputs"])
         else:
             nodes[idx] = Dense(
-                node_size, activation="relu", kernel_initializer="glorot_uniform"
+                node_size, activation="tanh", kernel_initializer="glorot_uniform"
             )(nodes[idx - 1])
 
-    nodes["outputs"] = Dense(input_dim, activation="sigmoid")(nodes[idx])
+#     nodes["outputs"] = Dense(input_dim, activation="relu")(nodes[idx])
+    nodes["outputs"] = Dense(input_dim, activation="tanh")(nodes[idx])
     nodes["decoder"] = Model(nodes["inputs"], nodes["outputs"])
     return nodes
