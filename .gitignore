@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 __pycache__/
+parameter_sweep/
+parameter_sweepBAD/
