@@ -1,9 +1,11 @@
-from tensorflow.keras.layers import Lambda, Input, Dense
+from tensorflow.keras.layers import Lambda, Input, Dense, Dropout
 from tensorflow.keras.models import Model, Sequential
 from tensorflow.keras import backend as K
 from tensorflow.keras.callbacks import Callback
 from tensorflow.keras.layers import Layer, BatchNormalization, Activation
 from tensorflow.keras import metrics
+from tensorflow import keras
+import tensorflow as tf
 
 
 def sampling(args):
@@ -41,10 +43,15 @@ class LossCallback(Callback):
         full_loss = logs.get("loss")
         self.xent_loss.append(xent_loss)
         self.kl_loss.append(full_loss - xent_loss)
+        keys = list(logs.keys())
+        print("Start epoch {} of training; got log keys: {}".format(epoch, keys))
         return
-
+    
+def lrelu(x, alpha=0.3):
+    return tf.maximum(x, tf.multiply(x, alpha))
 
 def connect_encoder(input_dim, latent_dim, architecture=[], batch_norm=True):
+    activation=lrelu
     nodes = {}
     nodes["inputs"] = Input(shape=(input_dim,))
 
@@ -54,22 +61,24 @@ def connect_encoder(input_dim, latent_dim, architecture=[], batch_norm=True):
     for idx in range(0, len(architecture)):
         node_size = architecture[idx]
         if idx == 0:
-            nodes[idx] = Dense(node_size, activation="tanh")(nodes["inputs"])
+            nodes[idx] = Dense(node_size, activation=activation)(nodes["inputs"])
+
         else:
-            nodes[idx] = Dense(node_size, activation="tanh")(nodes[idx - 1])
+            nodes[idx] = Dense(node_size, activation=activation)(nodes[idx - 1])
+
 
     z_mean = Dense(latent_dim, kernel_initializer="glorot_uniform")(nodes[idx])
     z_log_var = Dense(latent_dim, kernel_initializer="glorot_uniform")(nodes[idx])
 
     if batch_norm:
         z_mean_batchnorm = BatchNormalization()(z_mean)
-        nodes["z_mean"] = Activation("tanh")(z_mean_batchnorm)
+        nodes["z_mean"] = Activation(activation)(z_mean_batchnorm)
 
         z_log_var_batchnorm = BatchNormalization()(z_log_var)
-        nodes["z_log_var"] = Activation("tanh")(z_log_var_batchnorm)
+        nodes["z_log_var"] = Activation(activation)(z_log_var_batchnorm)
     else:
-        nodes["z_mean"] = Activation("tanh")(z_mean)
-        nodes["z_log_var"] = Activation("tanh")(z_log_var)
+        nodes["z_mean"] = Activation(activation)(z_mean)
+        nodes["z_log_var"] = Activation(activation)(z_log_var)
 
     nodes["z"] = Lambda(sampling, output_shape=(latent_dim,))(
         [nodes["z_mean"], nodes["z_log_var"]]
@@ -81,7 +90,9 @@ def connect_encoder(input_dim, latent_dim, architecture=[], batch_norm=True):
     return nodes
 
 
+
 def connect_decoder(input_dim, latent_dim, architecture=[]):
+    activation=lrelu
     nodes = {}
     nodes["inputs"] = Input(shape=(latent_dim,))
 
@@ -92,14 +103,15 @@ def connect_decoder(input_dim, latent_dim, architecture=[]):
         node_size = architecture[idx]
         if idx == 0:
             nodes[idx] = Dense(
-                node_size, activation="tanh", kernel_initializer="glorot_uniform"
+                node_size, activation=activation, kernel_initializer="glorot_uniform"
             )(nodes["inputs"])
+
         else:
             nodes[idx] = Dense(
-                node_size, activation="tanh", kernel_initializer="glorot_uniform"
+                node_size, activation=activation, kernel_initializer="glorot_uniform"
             )(nodes[idx - 1])
 
-#     nodes["outputs"] = Dense(input_dim, activation="relu")(nodes[idx])
-    nodes["outputs"] = Dense(input_dim, activation="tanh")(nodes[idx])
+    nodes["outputs"] = Dense(input_dim, activation='linear')(nodes[idx])
+
     nodes["decoder"] = Model(nodes["inputs"], nodes["outputs"])
     return nodes
