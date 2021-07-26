@@ -29,6 +29,9 @@ if args.architecture == "twolayer":
 if args.architecture == "threelayer":
     encoder_architecture = [250, 100]
     decoder_architecture = [100, 250]
+if args.architecture == "L1000architecture":
+    encoder_architecture = [1000, 1000]
+    decoder_architecture = [1000, 1000]
 
 
 # Load Data
@@ -58,14 +61,26 @@ elif args.dataset == 'L1000':
     test_meta_df = data_dict["valid"].reindex(meta_features, axis="columns")
     
 # Initialize hyper parameter VAE tuning
-hypermodel = HyperVAE(
+if args.dataset == 'cell-painting':
+    hypermodel = HyperVAE(
+        input_dim=train_features_df.shape[1],
+        min_latent_dim=args.min_latent_dim,
+        max_latent_dim=args.max_latent_dim,
+        min_beta=args.min_beta,
+        max_beta=args.max_beta,
+        learning_rate=args.learning_rate,
+        encoder_batch_norm=True,
+        encoder_architecture=encoder_architecture,
+        decoder_architecture=decoder_architecture,
+    )
+elif args.dataset == 'L1000':
+    hypermodel = HyperVAE(
     input_dim=train_features_df.shape[1],
     min_latent_dim=args.min_latent_dim,
     max_latent_dim=args.max_latent_dim,
-    min_beta=args.min_beta,
-    max_beta=args.max_beta,
     learning_rate=args.learning_rate,
     encoder_batch_norm=True,
+    max_beta = 1,
     encoder_architecture=encoder_architecture,
     decoder_architecture=decoder_architecture,
 )
@@ -83,7 +98,7 @@ elif args.dataset == 'L1000':
     tuner = CustomBayesianTunerL1000(
         hypermodel,
         objective="val_loss",
-        max_trials=1000,
+        max_trials=100,
         directory=args.directory,
         project_name=args.project_name,
         overwrite=args.overwrite,

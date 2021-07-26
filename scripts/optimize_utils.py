@@ -50,7 +50,8 @@ class HyperVAE(HyperModel):
             optimizer=self.optimizer,
             learning_rate=hp.Choice("learning_rate", values=self.learning_rate),
             epsilon_std=self.epsilon_std,
-            beta=hp.Float("beta", self.min_beta, self.max_beta, step=0.1),
+#             beta=hp.Float("beta", self.min_beta, self.max_beta, step=0.1),
+            beta = 1,
             loss=self.loss,
             encoder_batch_norm=hp.Boolean(
                 "encoder_batch_norm", default=self.encoder_batch_norm
@@ -73,8 +74,8 @@ class CustomBayesianTunerCellPainting(BayesianOptimization):
 class CustomBayesianTunerL1000(BayesianOptimization):
     # from https://github.com/keras-team/keras-tuner/issues/122#issuecomment-544648268
     def run_trial(self, trial, *args, **kwargs):
-        kwargs["batch_size"] = trial.hyperparameters.Int("batch_size", 256, 768, step = 64)
-        kwargs["epochs"] = trial.hyperparameters.Int("epochs", 10, 15, step=2)
+        kwargs["batch_size"] = trial.hyperparameters.Int("batch_size", 256, 768, step = 128)
+        kwargs["epochs"] = trial.hyperparameters.Int("epochs", 10, 11, step=2)
         
         super(CustomBayesianTunerL1000, self).run_trial(trial, *args, **kwargs)
         
