@@ -5,3 +5,4 @@ parameter_sweepBAD/
 data/
 data_old/
 tcga_testing/
+.DS_Store
