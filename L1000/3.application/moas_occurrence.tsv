@@ -1,0 +1,173 @@
+moa	full moa occurrence	moa1 occurrence	moa2 occurrence	moa3 occurrence	moa4 occurrence	moa5 occurrence	moa6 occurrence
+NFkB pathway inhibitor|proteasome inhibitor	231	16	271				
+Bcr-Abl kinase inhibitor|ephrin inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|SRC inhibitor|tyrosine kinase inhibitor	67	8	0	0.0	2.0	22.0	38.0
+dopamine receptor antagonist|serotonin receptor antagonist	45	96	75				
+mTOR inhibitor|PI3K inhibitor	43	82	71				
+cyclooxygenase inhibitor|prostanoid receptor antagonist	30	113	15				
+KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	24	0	2	40.0			
+AXL kinase inhibitor|c-Met inhibitor|FLT3 inhibitor|hepatocyte growth factor receptor inhibitor|macrophage migration inhibiting factor inhibitor|tyrosine kinase inhibitor	24	4	29	20.0	21.0	0.0	38.0
+Bcr-Abl kinase inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor	24	8	0	2.0			
+FGFR inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	23	19	2	40.0			
+Abl kinase inhibitor|Aurora kinase inhibitor|FLT3 inhibitor	21	0	44	20.0			
+KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|SRC inhibitor	19	0	2	22.0			
+FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor	19	19	0	2.0	65.0	0.0	40.0
+RET tyrosine kinase inhibitor|VEGFR inhibitor	18	0	40				
+EGFR inhibitor|protein tyrosine kinase inhibitor	18	169	10				
+FLT3 inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor	18	20	0	2.0	65.0	0.0	40.0
+Abl kinase inhibitor|Bcr-Abl kinase inhibitor|SRC inhibitor	18	0	8	22.0			
+Abl kinase inhibitor|Bcr-Abl kinase inhibitor	18	0	8				
+serotonin receptor agonist|serotonin receptor antagonist	16	46	75				
+insulin sensitizer|PPAR receptor agonist	16	12	20				
+RAF inhibitor|VEGFR inhibitor	16	65	40				
+FLT3 inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAD51 inhibitor|RET tyrosine kinase inhibitor	16	20	0	2.0	0.0	0.0	
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	14	2	40				
+cytochrome P450 inhibitor|SIRT activator	14	25	0				
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	13	18	13				
+Aurora kinase inhibitor|Bcr-Abl kinase inhibitor|FLT3 inhibitor|JAK inhibitor	13	44	8	20.0	47.0		
+EGFR inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor	13	169	0	40.0			
+FGFR inhibitor|VEGFR inhibitor	12	19	40				
+DNA replication inhibitor|STAT inhibitor	11	0	7				
+cyclooxygenase inhibitor|opioid receptor agonist	10	113	15				
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	10	8	3				
+SRC inhibitor|tubulin polymerization inhibitor	10	22	50				
+estrogen receptor agonist|estrogenic hormone	10	32	0				
+estrogen receptor agonist|glucocorticoid receptor antagonist|progesterone receptor agonist|progesterone receptor antagonist	10	32	3	30.0	8.0		
+glutamate receptor antagonist|sigma receptor agonist	9	24	13				
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	9	25	3				
+androgen receptor agonist|estrogen receptor agonist|progesterone receptor agonist	9	3	32	30.0			
+nuclear factor erythroid derived|like (NRF2) activator	9	0	0				
+immunosuppressant|protein synthesis inhibitor|purine antagonist	9	9	20	15.0			
+adrenergic receptor antagonist|glutamate receptor antagonist	8	146	24				
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	8	5	3				
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	7	7	26				
+hedgehog pathway inhibitor|smoothened receptor antagonist	7	3	6				
+benzodiazepine receptor agonist|HDAC inhibitor	7	25	92				
+DNA alkylating agent|DNA synthesis inhibitor	7	25	22				
+adrenergic receptor antagonist|prolactin inhibitor	7	146	0				
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	7	6	6				
+interferon receptor agonist|interleukin receptor agonist	6	0	4				
+sodium channel blocker|T-type calcium channel blocker	6	73	13				
+leukotriene receptor antagonist|phosphodiesterase inhibitor	6	22	158				
+adrenergic receptor agonist|imidazoline receptor agonist	6	78	2				
+KIT inhibitor|VEGFR inhibitor	6	0	40				
+norepinephrine reputake inhibitor|tricyclic antidepressant	6	2	6				
+SRC inhibitor|VEGFR inhibitor	6	22	40				
+FLT3 inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor	6	20	0	2.0			
+potassium channel blocker|sodium channel blocker	6	29	73				
+dopamine reuptake inhibitor|glutamate inhibitor|monoamine oxidase inhibitor	6	22	5	21.0			
+Aurora kinase inhibitor|JAK inhibitor	6	44	47				
+dopamine receptor agonist|serotonin receptor antagonist	6	59	75				
+cyclooxygenase inhibitor|platelet aggregation inhibitor	6	113	14				
+CDK inhibitor|growth factor receptor inhibitor	6	115	0				
+cyclooxygenase inhibitor|glutathione peroxidase agonist|H+/K+-ATPase inhibitor|nitric oxide synthase inhibitor	6	113	0	0.0	18.0		
+antiviral|RNA synthesis inhibitor	6	2	9				
+bradykinin receptor antagonist|tubulin polymerization inhibitor	6	0	50				
+DNA replication inhibitor|nucleoside reverse transcriptase inhibitor	6	0	26				
+dopamine receptor antagonist|serotonin receptor agonist	5	96	46				
+aryl hydrocarbon receptor agonist|capillary stabilizing agent	5	0	0				
+antitumor agent|ribonucleotide reductase inhibitor	5	0	16				
+AKT inhibitor|mTOR inhibitor	5	31	82				
+calpain inhibitor|cysteine protease inhibitor	5	0	0				
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)|tricyclic antidepressant	5	7	8	6.0			
+DNA synthesis inhibitor|thymidylate synthase inhibitor	5	22	15				
+Aurora kinase inhibitor|growth factor receptor inhibitor	5	44	0				
+ATPase inhibitor|gastrin inhibitor	5	20	0				
+mitochondrial DNA polymerase inhibitor|phosphatase inhibitor	5	0	0				
+adenosine receptor antagonist|hemoglobin antagonist	5	23	0				
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	5	20	2				
+adrenergic receptor antagonist|calcium channel blocker	5	146	73				
+melatonin receptor agonist|nitric oxide synthase inhibitor	5	8	18				
+DNA synthesis inhibitor|microtubule inhibitor	5	22	18				
+cyclooxygenase inhibitor|PPAR receptor agonist	5	113	20				
+cyclooxygenase inhibitor|NFkB pathway inhibitor	5	113	16				
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	5	12	21				
+NAD precursor|vitamin B	5	0	0				
+glucocorticoid receptor agonist|immunosuppressant	5	52	9				
+GABA receptor antagonist|GABA receptor modulator	5	5	12				
+adrenergic inhibitor|norepinephrine reuptake inhibitor|serotonin receptor antagonist|serotonin reuptake inhibitor	5	12	7	75.0	7.0		
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	5	7	15				
+DNA inhibitor|topoisomerase inhibitor	4	36	86				
+cholesterol inhibitor|lipase clearing factor inhibitor	4	15	4				
+ATPase inhibitor|NFkB pathway inhibitor|STAT inhibitor	4	20	16	7.0			
+microtubule stabilizing agent|tubulin polymerization inhibitor	4	3	50				
+gap junction modulator|nitric oxide production inhibitor	4	11	0				
+aldehyde dehydrogenase inhibitor|DNA methyltransferase inhibitor|TRPV agonist	4	0	31	2.0			
+interleukin receptor antagonist|STAT inhibitor	4	0	7				
+MRP inhibitor|P glycoprotein inhibitor	4	0	8				
+cytochrome P450 inhibitor|imidazoline receptor ligand	4	25	0				
+melatonin receptor agonist|serotonin receptor antagonist	4	8	75				
+adrenergic receptor agonist|serotonin receptor agonist	4	78	46				
+cytochrome P450 inhibitor|protein synthesis inhibitor	4	25	20				
+apoptosis stimulant|ribonucleotide reductase inhibitor	4	9	16				
+adenosine deaminase inhibitor|ribonucleotide reductase inhibitor	4	0	16				
+estrogen receptor antagonist|progesterone receptor agonist	4	6	30				
+angiogenesis inhibitor|S100A9 inhibitor	4	18	0				
+acetylcholinesterase inhibitor|microtubule inhibitor	4	12	18				
+ATP channel activator|potassium channel activator	4	0	16				
+cyclooxygenase inhibitor|lipoxygenase inhibitor	4	113	19				
+KATP activator|Kir6 channel (KATP) activator|vasodilator	4	0	0	0.0			
+adrenergic receptor antagonist|serotonin receptor antagonist|serotonin reuptake inhibitor	4	146	75	7.0			
+histamine receptor antagonist|platelet activating factor receptor antagonist	4	108	10				
+microtubule inhibitor|tubulin polymerization inhibitor	4	18	50				
+apoptosis stimulant|NFkB pathway inhibitor	4	9	16				
+adrenergic receptor antagonist|serotonin receptor antagonist	4	146	75				
+GABA receptor antagonist|serotonin receptor antagonist	4	5	75				
+androgen biosynthesis inhibitor|androgen receptor antagonist|cytochrome P450 inhibitor	4	3	34	25.0			
+adenosine receptor agonist|cAMP stimulant	4	18	0				
+DNA synthesis inhibitor|T cell inhibitor	4	22	0				
+glutathione transferase inhibitor|non-nucleoside reverse transcriptase inhibitor	3	0	12				
+histamine receptor agonist|histamine receptor antagonist	3	12	108				
+chloride channel blocker|GABA gated chloride channel blocker	3	8	0				
+FLT3 inhibitor|KIT inhibitor|PKC inhibitor	3	20	0	52.0			
+histamine receptor agonist|leukotriene receptor antagonist|phosphodiesterase inhibitor	3	12	22	158.0			
+leukotriene receptor antagonist|lipoxygenase inhibitor	3	22	19				
+ATP channel blocker|insulin secretagogue|sulfonylurea	3	11	22	13.0			
+CHK inhibitor|cytochrome P450 activator|indoleamine 2,3-dioxygenase inhibitor	3	6	0	2.0			
+interferon inducer|toll-like receptor agonist	3	5	3				
+norepinephrine inhibitor|norepinephrine reuptake inhibitor|serotonin receptor antagonist|serotoninânorepinephrine reuptake inhibitor (SNRI)	3	0	7	75.0	8.0		
+opioid receptor agonist|opioid receptor antagonist	3	15	11				
+bone resorption inhibitor|osteoclast inhibitor	3	10	0				
+lanosterol demethylase inhibitor|sterol demethylase inhibitor	3	0	39				
+platelet aggregation inhibitor|structural glycoprotein antagonist	3	14	3				
+chitinase inhibitor|NFkB pathway inhibitor	3	0	16				
+insulin sensitizer|PPAR receptor partial agonist	3	12	0				
+AKT inhibitor|TRAIL modulator	3	31	0				
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	3	7	8				
+EGFR inhibitor|VEGFR inhibitor	3	169	40				
+FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	3	19	0	2.0	40.0		
+HCV inhibitor|protease inhibitor	3	29	7				
+electrolyte reabsorption inhibitor|thromboxane receptor antagonist	3	0	14				
+DNA methylase inhibitor|protein synthesis inhibitor	3	0	20				
+carbonic anhydrase inhibitor|glutamate receptor antagonist|kainate receptor antagonist	3	24	24	2.0			
+cytomegalovirus inhibitor|protein kinase inhibitor	3	0	0				
+acetylcholinesterase inhibitor|cholinesterase inhibitor	3	12	4				
+aryl hydrocarbon receptor agonist|indoleamine 2,3-dioxygenase inhibitor	3	0	2				
+antimalarial agent|DNA inhibitor	3	9	36				
+ATP channel blocker|insulin secretagogue	3	11	22				
+calcium sensitizer|phosphodiesterase inhibitor	3	4	158				
+CFTR channel agonist|dystrophin stimulant	2	8	0				
+anticancer agent|aryl hydrocarbon receptor antagonist	2	2	0				
+HCN channel blocker|potassium channel blocker|sodium channel blocker	2	4	29	73.0			
+cyclooxygenase inhibitor|histone acetyltransferase inhibitor|lipoxygenase inhibitor|NFkB pathway inhibitor	2	113	0	19.0	16.0		
+ACAT inhibitor|sterol regulatory element binding protein (SREBP) inhibitor	2	14	0				
+gastrin inhibitor|urease inhibitor	2	0	0				
+IKK inhibitor|NFkB pathway inhibitor	2	0	16				
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	2	2	7				
+biliverdin reductase A activator|G protein-coupled receptor agonist	2	0	6				
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	2	5	19				
+adrenergic receptor agonist|carbonic anhydrase activator|neurotransmitter	2	78	0	0.0			
+serotonin receptor antagonist|sodium channel blocker	2	75	73				
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	2	7	22				
+adenosine receptor antagonist|phosphodiesterase inhibitor	2	23	158				
+Aurora kinase inhibitor|FLT3 inhibitor|VEGFR inhibitor	2	44	20	40.0			
+thromboxane receptor antagonist|thromboxane synthase inhibitor	2	14	14				
+antioxidant|capillary stabilizing agent|nitric oxide scavenger	1	13	0	0.0			
+aromatase inhibitor|TRPV antagonist	1	24	8				
+immunosuppressant|sphingosine 1-phosphate receptor agonist	1	9	0				
+phosphodiesterase inhibitor|sodium channel blocker	1	158	73				
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	1	18	31				
+cytokine production inhibitor|NFkB pathway inhibitor|TP53 activator	1	0	16	0.0			
+CDK inhibitor|glycogen synthase kinase inhibitor	1	115	6				
+acetylcholine receptor agonist|benzodiazepine receptor agonist	1	29	25				
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	1	1	158				
+FLT3 inhibitor|growth factor receptor inhibitor|JAK inhibitor	1	20	0	47.0			

@@ -7,11 +7,10 @@ def load_data(data_splits, dataset = "cell painting"):
     data = {}
     for data_split in data_splits:
         if dataset == 'cell painting':
-            file = pathlib.Path("../0.preprocessing/data", f"cell_painting_{data_split}.tsv.gz")
+            file = pathlib.Path("../0.preprocessing/data", f"cell_painting_{data_split}LEVEL5.tsv.gz")
             data[data_split] = pd.read_csv(file, sep="\t")
         elif dataset == 'L1000':
-#             file = pathlib.Path("../0.preprocessing/data", f"L1000-1+1_{data_split}.tsv.gz")
-            file = pathlib.Path("../0.preprocessing/data", f"L1000PHASE2level4-1+1_{data_split}.tsv.gz")
+            file = pathlib.Path("../0.preprocessing/data", f"L1000PHASE2noscaling_{data_split}.tsv.gz")
             data[data_split] = pd.read_csv(file, sep="\t")
             
     return data

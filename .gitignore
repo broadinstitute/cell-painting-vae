@@ -1,8 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
 parameter_sweep/
-parameter_sweepBAD/
+parameter_sweepLEVEL5/
+parameter_sweepLEVEL4/
 data/
-data_old/
-tcga_testing/
 .DS_Store
