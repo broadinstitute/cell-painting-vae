@@ -3,4 +3,5 @@ __pycache__/
 parameter_sweep/
 parameter_sweepLEVEL5/
 parameter_sweepLEVEL4/
+data/
 .DS_Store
