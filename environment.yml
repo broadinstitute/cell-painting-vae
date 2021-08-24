@@ -5,7 +5,7 @@ dependencies:
 - conda-forge::python
 - conda-forge::pandas
 - conda-forge::keras
-- conda-forge::tensorflow=2.4.1
+- conda-forge::tensorflow=2.4
 - conda-forge::scipy 
 - conda-forge::xlrd
 - conda-forge::numpy
