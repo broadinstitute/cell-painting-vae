@@ -12,13 +12,13 @@ directory = "parameter_sweep"
 if args.dataset == 'cell-painting':
     learning_rate = [1e-2, 1e-3, 1e-4, 1e-5]
     min_latent_dim = 5
-    max_latent_dim = 100
-    max_beta = 5
+    max_latent_dim = 150
+    max_beta = 1
     architectures = ["onelayer", "twolayer", "threelayer"]
 elif args.dataset == 'L1000':
-    learning_rate = [1e-2, 1e-3, 1e-4]
-    min_latent_dim = 60
-    max_latent_dim = 120
+    learning_rate = [1e-2, 1e-3, 1e-4,1e-5]
+    min_latent_dim = 5
+    max_latent_dim = 150
     max_beta = 1
     architectures = ["L1000architecture"]
 
