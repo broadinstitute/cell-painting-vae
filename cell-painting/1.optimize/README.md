@@ -1,5 +1,5 @@
 ## Optimize hyperparameters
 
-Results from a previous hyperparameter sweep can be found in `parameter sweep`. To reproduce these results, run `optimize.py`
+To rerun the hyperparameter sweep, run `optimize_cell_painting.py`
 
-To get the best hyperparameters from the hyperparameter sweep, run `get_best_hyperparameters.ipynb` or `scripts/nbconverted/get_best_hyperparameters.py`
+To get the best hyperparameters from the hyperparameter sweep, run `get_best_hyperparameters.ipynb`
