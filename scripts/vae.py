@@ -58,11 +58,8 @@ class VAE:
             xy_kernel = compute_kernel(x, y)
             return K.mean(x_kernel) + K.mean(y_kernel) - 2 * K.mean(xy_kernel)
         
-        if self.loss == "binary_crossentropy":
-#             loss_fxn = binary_crossentropy(self.inputs, self.cycle)
-            loss_fxn = mse(self.inputs, self.cycle)
-        elif self.loss == "mse":
-            loss_fxn = mse(self.inputs, self.cycle)
+       
+        loss_fxn = mse(self.inputs, self.cycle)
 
         self.reconstruction_loss = loss_fxn
         self.reconstruction_loss *= self.input_dim
@@ -85,7 +82,6 @@ class VAE:
         mmd_loss = K.get_value(self.lam)* self.mmd_loss
         kl_loss = K.get_value(self.beta)* self.kl_loss
         total_loss = self.reconstruction_loss + mmd_loss + kl_loss
-#         total_loss = self.reconstruction_loss + kl_loss
  
         return {
             "loss": total_loss,
