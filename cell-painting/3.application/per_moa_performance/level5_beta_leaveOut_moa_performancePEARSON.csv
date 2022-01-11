@@ -1,0 +1,85 @@
+,MOA,zscore,moa similarity
+77,DNA synthesis inhibitor|microtubule inhibitor,-3.10395040136648,1.0072288195138237
+42,EGFR inhibitor|protein tyrosine kinase inhibitor,-3.099054571805791,1.127175018529474
+74,benzodiazepine receptor agonist|HDAC inhibitor,-3.086338562826628,1.0788088942415242
+21,cytochrome P450 inhibitor|protein synthesis inhibitor,-2.738753490122235,1.1289976260066816
+68,CDK inhibitor|glycogen synthase kinase inhibitor,-2.731538085446795,1.1659257315611664
+65,HCV inhibitor|protease inhibitor,-2.628411095652391,0.887601140346267
+44,apoptosis stimulant|ribonucleotide reductase inhibitor,-2.5467909030521567,0.8005327396613202
+40,acetylcholinesterase inhibitor|microtubule inhibitor,-2.3938127279430006,1.1968068098970985
+37,histamine receptor antagonist|platelet activating factor receptor antagonist,-2.0448899479341818,1.0856112338699944
+32,DNA synthesis inhibitor|thymidylate synthase inhibitor,-1.995854549758963,1.1672124447011474
+80,adrenergic receptor agonist|imidazoline receptor agonist,-1.9288478175695272,0.8160916650658765
+1,dopamine receptor antagonist|serotonin receptor antagonist,-1.903571998577467,0.5071226705019349
+76,antimalarial agent|DNA inhibitor,-1.8228543423146628,0.9331867763156065
+2,cyclooxygenase inhibitor|prostanoid receptor antagonist,-1.797238545963076,0.5153903778582463
+55,adrenergic receptor antagonist|glutamate receptor antagonist,-1.7725928574179912,0.6265778049984735
+78,potassium channel blocker|sodium channel blocker,-1.6875049860904918,1.1750211569362448
+59,leukotriene synthesis inhibitor|lipoxygenase inhibitor,-1.1943506499603322,0.766263323242561
+11,angiogenesis inhibitor|tumor necrosis factor production inhibitor,-1.189943417336872,0.7437786242204975
+49,antiviral|RNA synthesis inhibitor,-1.0832146863384178,1.2967103923342997
+60,EGFR inhibitor|VEGFR inhibitor,-0.6750997066462552,1.2121727142675167
+35,DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor,-0.6025657632993483,2.397481607379423
+26,hedgehog pathway inhibitor|smoothened receptor antagonist,-0.6011367375876989,0.9613726497240863
+24,DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor,-0.556578240826563,2.600603155625048
+12,norepinephrine reputake inhibitor|tricyclic antidepressant,-0.4807518818017976,1.0940104979047989
+5,FGFR inhibitor|VEGFR inhibitor,-0.3477541775083317,0.6657894372332671
+54,aromatase inhibitor|TRPV antagonist,-0.22626465252829453,0.9472845179611016
+52,adenosine reuptake inhibitor|phosphodiesterase inhibitor,-0.17722185161181603,0.8312663828069238
+10,11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist,-0.011093672721496526,0.6255704012024493
+47,cyclooxygenase inhibitor|opioid receptor agonist,0.012670576701327017,1.1877651528828481
+61,dopamine receptor antagonist|serotonin receptor agonist,0.037921938115055426,0.948471728837728
+27,bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor,0.06934853772313994,1.0273632197644127
+4,insulin sensitizer|PPAR receptor agonist,0.07611735772516066,0.6095602599246016
+16,calcium sensitizer|phosphodiesterase inhibitor,0.09687950812476612,0.8505687405221624
+20,thromboxane receptor antagonist|thromboxane synthase inhibitor,0.10091984924115646,1.316979711448835
+13,GABA receptor antagonist|GABA receptor modulator,0.11574007605307754,0.5886470587475462
+81,SRC inhibitor|VEGFR inhibitor,0.15054984336831675,1.3844003800738416
+19,cholesterol inhibitor|lipase clearing factor inhibitor,0.1573507911176451,1.101599613132717
+71,platelet aggregation inhibitor|structural glycoprotein antagonist,0.15841621927047425,0.9937424831554895
+8,dehydrogenase inhibitor|inositol monophosphatase inhibitor,0.17713838625424821,2.907808845482284
+62,glutamate receptor antagonist|sigma receptor agonist,0.24033424472647658,1.3889851433675842
+6,estrogen receptor antagonist|selective estrogen receptor modulator (SERM),0.31053196775506703,1.0433989508290966
+66,cyclooxygenase inhibitor|platelet aggregation inhibitor,0.3556770540303797,1.0956287553170136
+30,melatonin receptor agonist|serotonin receptor antagonist,0.40310409437130856,0.9210995187200869
+83,cyclooxygenase inhibitor|NFkB pathway inhibitor,0.40338500986112336,0.9135260709151501
+14,sodium channel blocker|T-type calcium channel blocker,0.4068504403543523,1.1323956450467407
+41,benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist,0.4752574969101579,1.0256246353566518
+36,melatonin receptor agonist|nitric oxide synthase inhibitor,0.509057057606564,1.2672871984965546
+45,norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI),0.5277700066785438,1.08959800217187
+33,histamine receptor agonist|histamine receptor antagonist,0.5685774379916734,1.0967731524594941
+69,ATP channel blocker|insulin secretagogue,0.5842705762463662,1.062705112412578
+72,norepinephrine reputake inhibitor|serotonin reuptake inhibitor,0.5844752977162334,1.2120234775247347
+64,interferon inducer|toll-like receptor agonist,0.6278374904383918,1.2459124472286423
+53,cyclooxygenase inhibitor|PPAR receptor agonist,0.6768980245551887,0.851277699300428
+34,RAF inhibitor|VEGFR inhibitor,0.7006392780577162,1.657867917619469
+43,leukotriene receptor antagonist|lipoxygenase inhibitor,0.7276767531475655,0.803192498562401
+51,glucocorticoid receptor agonist|immunosuppressant,0.7740640132616812,2.007021048084676
+28,acetylcholine receptor agonist|benzodiazepine receptor agonist,0.9131682947105922,1.1844007286183837
+73,apoptosis stimulant|NFkB pathway inhibitor,0.9222014446347826,0.9928602216488437
+82,acetylcholinesterase inhibitor|monoamine oxidase inhibitor,0.9470260236706098,1.5600936661828406
+31,dopamine receptor agonist|serotonin receptor antagonist,1.0148540026154627,1.2514821850549984
+39,serotonin receptor antagonist|sodium channel blocker,1.0955212719030962,1.5713363403957203
+29,opioid receptor agonist|opioid receptor antagonist,1.165254183448882,0.6202184067422877
+15,DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor,1.1760535613474887,1.0845107374458085
+48,dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor,1.1848051021034558,1.4640197463797433
+22,phosphodiesterase inhibitor|sodium channel blocker,1.2273718416971562,1.2865401397423435
+7,serotonin receptor agonist|serotonin receptor antagonist,1.237184056274734,1.020484894542026
+9,PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor,1.26259273031503,0.8459887714933668
+70,adenosine receptor antagonist|phosphodiesterase inhibitor,1.285979435812614,1.2315359091365576
+75,adrenergic receptor agonist|serotonin receptor agonist,1.3192560158711597,0.8124345568715639
+50,cyclooxygenase inhibitor|lipoxygenase inhibitor,1.5921731420178238,1.5913918146716766
+57,adrenergic receptor antagonist|calcium channel blocker,1.6110842610820086,1.2607335495992076
+67,leukotriene receptor antagonist|phosphodiesterase inhibitor,1.7079961622368172,1.347560373589732
+38,estrogen receptor antagonist|progesterone receptor agonist,1.775328694789673,1.241245789276314
+63,acetylcholinesterase inhibitor|cholinesterase inhibitor,1.8444433127626252,0.8454403433305161
+25,adrenergic receptor antagonist|serotonin receptor antagonist,2.0927226752110815,0.9911876342229116
+23,AKT inhibitor|mTOR inhibitor,2.3582993856175025,1.2680941473564211
+79,SRC inhibitor|tubulin polymerization inhibitor,2.6968484848212038,4.022179624737727
+18,DNA alkylating agent|DNA synthesis inhibitor,2.755729417870892,3.704014563052944
+56,RNA synthesis inhibitor|topoisomerase inhibitor,2.9692032559801063,3.580546189484352
+46,DNA inhibitor|topoisomerase inhibitor,3.1033333044049454,3.1164946117575965
+58,Aurora kinase inhibitor|JAK inhibitor,3.111025082182103,5.080567369680594
+3,mTOR inhibitor|PI3K inhibitor,3.111310946763043,2.2389316677457227
+17,microtubule inhibitor|tubulin polymerization inhibitor,3.1575262887745112,5.3885205952722774
+0,NFkB pathway inhibitor|proteasome inhibitor,3.1578159833932085,5.111749448426633
