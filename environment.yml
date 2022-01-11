@@ -21,9 +21,12 @@ dependencies:
 - conda-forge::ipykernel
 - conda-forge::nb_conda_kernels
 - conda-forge::jupyter_contrib_nbextensions
+- conda-forge::python-annoy
+- conda-forge::numba
 - conda-forge::pip
 - pip:
-  - git+https://github.com/cytomining/pycytominer@17a1a6e3db113d72ee0d0dc934973fba00708054
-  - keras-tuner
+#   - git+https://github.com/cytomining/pycytominer@17a1a6e3db113d72ee0d0dc934973fba00708054
+#   - keras-tuner
   - cmapPy
   - h5py==2.10.0
+  - pacmap
