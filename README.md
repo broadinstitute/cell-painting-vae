@@ -11,10 +11,10 @@ conda activate cell-painting-vae
 
 To reproduce results, follow the instructions in each analysis module in the following order:
 
-[0.preprocessing](/0.preprocessing)
+[0.preprocessing](/cell-painting/0.preprocessing)
 
-[1.optimize](/1.optimize)
+[1.optimize](/cell-painting/1.optimize)
 
-[2.train](/2.train)
+[2.train](/cell-painting/2.train)
 
-[3.application](/3.application)
+[3.application](/cell-painting/3.application)
