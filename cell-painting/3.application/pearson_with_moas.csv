@@ -1,4 +1,4 @@
-Model,L2 Distance,MOA
+Model,Pearson,MOA
 Vanilla,0.8000478639544254,NFkB pathway inhibitor|proteasome inhibitor
 Vanilla,0.9971675400869304,dopamine receptor antagonist|serotonin receptor antagonist
 Vanilla,0.9963870471941046,cyclooxygenase inhibitor|prostanoid receptor antagonist
