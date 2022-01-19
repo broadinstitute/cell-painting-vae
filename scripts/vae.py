@@ -81,7 +81,10 @@ class VAE:
         
         mmd_loss = K.get_value(self.lam)* self.mmd_loss
         kl_loss = K.get_value(self.beta)* self.kl_loss
+#         mmd_loss = kl_loss
         total_loss = self.reconstruction_loss + mmd_loss + kl_loss
+#         total_loss = self.reconstruction_loss + kl_loss
+
  
         return {
             "loss": total_loss,
