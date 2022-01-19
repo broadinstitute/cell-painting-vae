@@ -1,0 +1,841 @@
+MOA	model	zscore	metric
+NFkB pathway inhibitor|proteasome inhibitor	Vanilla	-3.1535610216736085	L2 distance
+NFkB pathway inhibitor|proteasome inhibitor	Beta	-3.143671490428088	L2 distance
+NFkB pathway inhibitor|proteasome inhibitor	MMD	-3.153877285455838	L2 distance
+NFkB pathway inhibitor|proteasome inhibitor	PCA	-2.9704054920363356	L2 distance
+NFkB pathway inhibitor|proteasome inhibitor	Complete	-2.8067380103758226	L2 distance
+dopamine receptor antagonist|serotonin receptor antagonist	Vanilla	-1.1796382610359928	L2 distance
+dopamine receptor antagonist|serotonin receptor antagonist	Beta	0.30679829339656023	L2 distance
+dopamine receptor antagonist|serotonin receptor antagonist	MMD	-0.1120010739276876	L2 distance
+dopamine receptor antagonist|serotonin receptor antagonist	PCA	-0.9937103372375069	L2 distance
+dopamine receptor antagonist|serotonin receptor antagonist	Complete	-1.0735195025281254	L2 distance
+cyclooxygenase inhibitor|prostanoid receptor antagonist	Vanilla	0.9260589972787527	L2 distance
+cyclooxygenase inhibitor|prostanoid receptor antagonist	Beta	2.1296617435519174	L2 distance
+cyclooxygenase inhibitor|prostanoid receptor antagonist	MMD	2.5846506205286106	L2 distance
+cyclooxygenase inhibitor|prostanoid receptor antagonist	PCA	0.7505297021125491	L2 distance
+cyclooxygenase inhibitor|prostanoid receptor antagonist	Complete	0.40806493379511066	L2 distance
+mTOR inhibitor|PI3K inhibitor	Vanilla	-2.954679357839281	L2 distance
+mTOR inhibitor|PI3K inhibitor	Beta	-3.0832877817757818	L2 distance
+mTOR inhibitor|PI3K inhibitor	MMD	-3.0155341643810165	L2 distance
+mTOR inhibitor|PI3K inhibitor	PCA	-2.8733125850372874	L2 distance
+mTOR inhibitor|PI3K inhibitor	Complete	-2.898809683723589	L2 distance
+insulin sensitizer|PPAR receptor agonist	Vanilla	-1.3332681240313413	L2 distance
+insulin sensitizer|PPAR receptor agonist	Beta	-0.5249192445833217	L2 distance
+insulin sensitizer|PPAR receptor agonist	MMD	-1.1731453664252982	L2 distance
+insulin sensitizer|PPAR receptor agonist	PCA	-0.7674605039948935	L2 distance
+insulin sensitizer|PPAR receptor agonist	Complete	-0.6341093023245991	L2 distance
+FGFR inhibitor|VEGFR inhibitor	Vanilla	0.46839036499796843	L2 distance
+FGFR inhibitor|VEGFR inhibitor	Beta	1.0845439535779857	L2 distance
+FGFR inhibitor|VEGFR inhibitor	MMD	-1.4464760888470176	L2 distance
+FGFR inhibitor|VEGFR inhibitor	PCA	0.4344101889684733	L2 distance
+FGFR inhibitor|VEGFR inhibitor	Complete	2.4107304523013156	L2 distance
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	Vanilla	-0.5199317111549451	L2 distance
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	Beta	-0.6037779671172964	L2 distance
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	MMD	-0.49067057640498357	L2 distance
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	PCA	-0.29408194426453826	L2 distance
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	Complete	-0.36220333241089103	L2 distance
+serotonin receptor agonist|serotonin receptor antagonist	Vanilla	-0.8206158163888052	L2 distance
+serotonin receptor agonist|serotonin receptor antagonist	Beta	-1.1416036920316635	L2 distance
+serotonin receptor agonist|serotonin receptor antagonist	MMD	-0.7325325835610792	L2 distance
+serotonin receptor agonist|serotonin receptor antagonist	PCA	-1.6935190562674112	L2 distance
+serotonin receptor agonist|serotonin receptor antagonist	Complete	-1.4338562347926058	L2 distance
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	Vanilla	0.5762181855376479	L2 distance
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	Beta	1.6848273750187839	L2 distance
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	MMD	0.6382259995505875	L2 distance
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	PCA	0.6794668868005116	L2 distance
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	Complete	0.40365967064505504	L2 distance
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	Vanilla	-0.11286836573428874	L2 distance
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	Beta	-1.8115457744033228	L2 distance
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	MMD	-0.8656994664238087	L2 distance
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	PCA	0.13038441880847398	L2 distance
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	Complete	-0.45826367801723394	L2 distance
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	Vanilla	0.3361965012420586	L2 distance
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	Beta	1.1917808372586025	L2 distance
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	MMD	-0.3587689921511663	L2 distance
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	PCA	0.11758459725142427	L2 distance
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	Complete	0.18558113107434168	L2 distance
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	Vanilla	1.3751411131133313	L2 distance
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	Beta	-0.7451597416122849	L2 distance
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	MMD	-0.24598945527808455	L2 distance
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	PCA	-0.7381934234716296	L2 distance
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	Complete	-0.5237465145024558	L2 distance
+norepinephrine reputake inhibitor|tricyclic antidepressant	Vanilla	-0.19752631252862143	L2 distance
+norepinephrine reputake inhibitor|tricyclic antidepressant	Beta	1.6143352632964185	L2 distance
+norepinephrine reputake inhibitor|tricyclic antidepressant	MMD	1.9783602763063357	L2 distance
+norepinephrine reputake inhibitor|tricyclic antidepressant	PCA	1.3370658032015952	L2 distance
+norepinephrine reputake inhibitor|tricyclic antidepressant	Complete	0.5882527374632284	L2 distance
+GABA receptor antagonist|GABA receptor modulator	Vanilla	-0.38508317328656505	L2 distance
+GABA receptor antagonist|GABA receptor modulator	Beta	0.6491906672069755	L2 distance
+GABA receptor antagonist|GABA receptor modulator	MMD	0.37917819005593423	L2 distance
+GABA receptor antagonist|GABA receptor modulator	PCA	-0.3492518600071533	L2 distance
+GABA receptor antagonist|GABA receptor modulator	Complete	-0.3627154139569968	L2 distance
+sodium channel blocker|T-type calcium channel blocker	Vanilla	-1.0927541604513704	L2 distance
+sodium channel blocker|T-type calcium channel blocker	Beta	0.24132857191700238	L2 distance
+sodium channel blocker|T-type calcium channel blocker	MMD	-0.2588170821601018	L2 distance
+sodium channel blocker|T-type calcium channel blocker	PCA	-0.1522190582103955	L2 distance
+sodium channel blocker|T-type calcium channel blocker	Complete	-0.42611331329181323	L2 distance
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	Vanilla	-0.5525954612964625	L2 distance
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	Beta	0.6304495800945054	L2 distance
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	MMD	-0.9204840318325265	L2 distance
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	PCA	-1.0663692137654075	L2 distance
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	Complete	-1.2619322684156498	L2 distance
+calcium sensitizer|phosphodiesterase inhibitor	Vanilla	0.03241399424963312	L2 distance
+calcium sensitizer|phosphodiesterase inhibitor	Beta	-0.3110375052054704	L2 distance
+calcium sensitizer|phosphodiesterase inhibitor	MMD	-0.39732971878905654	L2 distance
+calcium sensitizer|phosphodiesterase inhibitor	PCA	-0.8904212359330699	L2 distance
+calcium sensitizer|phosphodiesterase inhibitor	Complete	-0.1928313112985404	L2 distance
+microtubule inhibitor|tubulin polymerization inhibitor	Vanilla	-3.133867868209902	L2 distance
+microtubule inhibitor|tubulin polymerization inhibitor	Beta	-3.1515662244294687	L2 distance
+microtubule inhibitor|tubulin polymerization inhibitor	MMD	-3.1294737966116215	L2 distance
+microtubule inhibitor|tubulin polymerization inhibitor	PCA	-2.8888384638583107	L2 distance
+microtubule inhibitor|tubulin polymerization inhibitor	Complete	-3.0305147509848354	L2 distance
+DNA alkylating agent|DNA synthesis inhibitor	Vanilla	-2.162668634087084	L2 distance
+DNA alkylating agent|DNA synthesis inhibitor	Beta	-2.665239124831643	L2 distance
+DNA alkylating agent|DNA synthesis inhibitor	MMD	-2.9221437112158	L2 distance
+DNA alkylating agent|DNA synthesis inhibitor	PCA	-2.147231410430959	L2 distance
+DNA alkylating agent|DNA synthesis inhibitor	Complete	-2.2641886306558145	L2 distance
+cholesterol inhibitor|lipase clearing factor inhibitor	Vanilla	-0.8205700296638092	L2 distance
+cholesterol inhibitor|lipase clearing factor inhibitor	Beta	-1.1322460755571222	L2 distance
+cholesterol inhibitor|lipase clearing factor inhibitor	MMD	-0.16071952870148623	L2 distance
+cholesterol inhibitor|lipase clearing factor inhibitor	PCA	0.19689255421725868	L2 distance
+cholesterol inhibitor|lipase clearing factor inhibitor	Complete	-0.3563283870643298	L2 distance
+thromboxane receptor antagonist|thromboxane synthase inhibitor	Vanilla	1.1635457151014956	L2 distance
+thromboxane receptor antagonist|thromboxane synthase inhibitor	Beta	2.2168098484958065	L2 distance
+thromboxane receptor antagonist|thromboxane synthase inhibitor	MMD	1.140168012233585	L2 distance
+thromboxane receptor antagonist|thromboxane synthase inhibitor	PCA	0.94839021415568	L2 distance
+thromboxane receptor antagonist|thromboxane synthase inhibitor	Complete	2.1559725552391953	L2 distance
+cytochrome P450 inhibitor|protein synthesis inhibitor	Vanilla	2.9729677542064317	L2 distance
+cytochrome P450 inhibitor|protein synthesis inhibitor	Beta	0.4944549846010189	L2 distance
+cytochrome P450 inhibitor|protein synthesis inhibitor	MMD	1.8036720709958614	L2 distance
+cytochrome P450 inhibitor|protein synthesis inhibitor	PCA	2.2539726501392443	L2 distance
+cytochrome P450 inhibitor|protein synthesis inhibitor	Complete	2.7228020768452526	L2 distance
+phosphodiesterase inhibitor|sodium channel blocker	Vanilla	-2.5356786346157727	L2 distance
+phosphodiesterase inhibitor|sodium channel blocker	Beta	-1.7109632773732537	L2 distance
+phosphodiesterase inhibitor|sodium channel blocker	MMD	-1.575890718560961	L2 distance
+phosphodiesterase inhibitor|sodium channel blocker	PCA	-1.8665930397673145	L2 distance
+phosphodiesterase inhibitor|sodium channel blocker	Complete	-2.510017030386352	L2 distance
+AKT inhibitor|mTOR inhibitor	Vanilla	-2.7398480692606912	L2 distance
+AKT inhibitor|mTOR inhibitor	Beta	-0.9382811363523949	L2 distance
+AKT inhibitor|mTOR inhibitor	MMD	-1.5486676544367797	L2 distance
+AKT inhibitor|mTOR inhibitor	PCA	2.7521827974782664	L2 distance
+AKT inhibitor|mTOR inhibitor	Complete	2.9725717934997986	L2 distance
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	Vanilla	0.583048879891125	L2 distance
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	Beta	0.45218992830971066	L2 distance
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	MMD	0.5538110072432406	L2 distance
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	PCA	1.7972797526615367	L2 distance
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	Complete	1.2001874281178027	L2 distance
+adrenergic receptor antagonist|serotonin receptor antagonist	Vanilla	-1.6118820434819376	L2 distance
+adrenergic receptor antagonist|serotonin receptor antagonist	Beta	-2.24506391088967	L2 distance
+adrenergic receptor antagonist|serotonin receptor antagonist	MMD	-0.965617459509869	L2 distance
+adrenergic receptor antagonist|serotonin receptor antagonist	PCA	-1.9979441424836566	L2 distance
+adrenergic receptor antagonist|serotonin receptor antagonist	Complete	-1.9943339263541722	L2 distance
+hedgehog pathway inhibitor|smoothened receptor antagonist	Vanilla	0.04422443340893085	L2 distance
+hedgehog pathway inhibitor|smoothened receptor antagonist	Beta	0.28738152628477764	L2 distance
+hedgehog pathway inhibitor|smoothened receptor antagonist	MMD	-0.8777708911935682	L2 distance
+hedgehog pathway inhibitor|smoothened receptor antagonist	PCA	0.8031039811383747	L2 distance
+hedgehog pathway inhibitor|smoothened receptor antagonist	Complete	0.31754555764302794	L2 distance
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	Vanilla	-0.8047477983379461	L2 distance
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	Beta	1.6046462858675803	L2 distance
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	MMD	0.3489075930767813	L2 distance
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	PCA	-0.09982828010524968	L2 distance
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	Complete	-0.7016252987860859	L2 distance
+acetylcholine receptor agonist|benzodiazepine receptor agonist	Vanilla	-1.172378624685078	L2 distance
+acetylcholine receptor agonist|benzodiazepine receptor agonist	Beta	-1.166156766734517	L2 distance
+acetylcholine receptor agonist|benzodiazepine receptor agonist	MMD	-2.0402198803789293	L2 distance
+acetylcholine receptor agonist|benzodiazepine receptor agonist	PCA	-1.6920744532346677	L2 distance
+acetylcholine receptor agonist|benzodiazepine receptor agonist	Complete	-1.4231156373552691	L2 distance
+opioid receptor agonist|opioid receptor antagonist	Vanilla	-0.7504094081264301	L2 distance
+opioid receptor agonist|opioid receptor antagonist	Beta	-0.4260350339653544	L2 distance
+opioid receptor agonist|opioid receptor antagonist	MMD	-0.5772304566869332	L2 distance
+opioid receptor agonist|opioid receptor antagonist	PCA	1.0271347332763177	L2 distance
+opioid receptor agonist|opioid receptor antagonist	Complete	1.6634285498966928	L2 distance
+melatonin receptor agonist|serotonin receptor antagonist	Vanilla	-0.5719947291215686	L2 distance
+melatonin receptor agonist|serotonin receptor antagonist	Beta	-0.20563699243509412	L2 distance
+melatonin receptor agonist|serotonin receptor antagonist	MMD	-0.33512458362217756	L2 distance
+melatonin receptor agonist|serotonin receptor antagonist	PCA	0.11678124842788573	L2 distance
+melatonin receptor agonist|serotonin receptor antagonist	Complete	1.0680405230472672	L2 distance
+dopamine receptor agonist|serotonin receptor antagonist	Vanilla	-1.0250506973235232	L2 distance
+dopamine receptor agonist|serotonin receptor antagonist	Beta	-1.451390789849653	L2 distance
+dopamine receptor agonist|serotonin receptor antagonist	MMD	-0.5107871389476902	L2 distance
+dopamine receptor agonist|serotonin receptor antagonist	PCA	-1.0615170325338537	L2 distance
+dopamine receptor agonist|serotonin receptor antagonist	Complete	-0.9985435252955784	L2 distance
+DNA synthesis inhibitor|thymidylate synthase inhibitor	Vanilla	1.0836022784968053	L2 distance
+DNA synthesis inhibitor|thymidylate synthase inhibitor	Beta	2.363564892077005	L2 distance
+DNA synthesis inhibitor|thymidylate synthase inhibitor	MMD	2.097991933883249	L2 distance
+DNA synthesis inhibitor|thymidylate synthase inhibitor	PCA	1.1490809251405418	L2 distance
+DNA synthesis inhibitor|thymidylate synthase inhibitor	Complete	1.8553477632479762	L2 distance
+histamine receptor agonist|histamine receptor antagonist	Vanilla	-0.9173601835126626	L2 distance
+histamine receptor agonist|histamine receptor antagonist	Beta	-1.459777616505734	L2 distance
+histamine receptor agonist|histamine receptor antagonist	MMD	-1.0592501037479323	L2 distance
+histamine receptor agonist|histamine receptor antagonist	PCA	-1.3154391142759432	L2 distance
+histamine receptor agonist|histamine receptor antagonist	Complete	-1.2131460466573718	L2 distance
+RAF inhibitor|VEGFR inhibitor	Vanilla	-1.4001446322848645	L2 distance
+RAF inhibitor|VEGFR inhibitor	Beta	-0.37142182436617704	L2 distance
+RAF inhibitor|VEGFR inhibitor	MMD	-1.0741818783295751	L2 distance
+RAF inhibitor|VEGFR inhibitor	PCA	-0.005493724827604333	L2 distance
+RAF inhibitor|VEGFR inhibitor	Complete	1.08178573511225	L2 distance
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	Vanilla	0.5867923206842491	L2 distance
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	Beta	1.227647624650036	L2 distance
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	MMD	1.196312798854953	L2 distance
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	PCA	1.7983402509324824	L2 distance
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	Complete	1.8128053744292358	L2 distance
+melatonin receptor agonist|nitric oxide synthase inhibitor	Vanilla	-0.44340617093438156	L2 distance
+melatonin receptor agonist|nitric oxide synthase inhibitor	Beta	-0.5455094728188886	L2 distance
+melatonin receptor agonist|nitric oxide synthase inhibitor	MMD	-0.5570607073847096	L2 distance
+melatonin receptor agonist|nitric oxide synthase inhibitor	PCA	-0.8701869567551864	L2 distance
+melatonin receptor agonist|nitric oxide synthase inhibitor	Complete	-0.8079324677402455	L2 distance
+histamine receptor antagonist|platelet activating factor receptor antagonist	Vanilla	2.003298373152692	L2 distance
+histamine receptor antagonist|platelet activating factor receptor antagonist	Beta	1.916081979693907	L2 distance
+histamine receptor antagonist|platelet activating factor receptor antagonist	MMD	1.4090843370960615	L2 distance
+histamine receptor antagonist|platelet activating factor receptor antagonist	PCA	2.4774023213631917	L2 distance
+histamine receptor antagonist|platelet activating factor receptor antagonist	Complete	2.2830165007779084	L2 distance
+estrogen receptor antagonist|progesterone receptor agonist	Vanilla	-0.8910609031192726	L2 distance
+estrogen receptor antagonist|progesterone receptor agonist	Beta	-1.4350977699755667	L2 distance
+estrogen receptor antagonist|progesterone receptor agonist	MMD	-1.0520054532431433	L2 distance
+estrogen receptor antagonist|progesterone receptor agonist	PCA	-0.5281397363949778	L2 distance
+estrogen receptor antagonist|progesterone receptor agonist	Complete	-0.5880783266286167	L2 distance
+serotonin receptor antagonist|sodium channel blocker	Vanilla	-1.8333242433298578	L2 distance
+serotonin receptor antagonist|sodium channel blocker	Beta	-2.299307969940298	L2 distance
+serotonin receptor antagonist|sodium channel blocker	MMD	-0.9814244943625238	L2 distance
+serotonin receptor antagonist|sodium channel blocker	PCA	-2.0452804574304517	L2 distance
+serotonin receptor antagonist|sodium channel blocker	Complete	-2.0935380382247972	L2 distance
+acetylcholinesterase inhibitor|microtubule inhibitor	Vanilla	0.300760056769221	L2 distance
+acetylcholinesterase inhibitor|microtubule inhibitor	Beta	1.6666969114637942	L2 distance
+acetylcholinesterase inhibitor|microtubule inhibitor	MMD	1.6335832914821344	L2 distance
+acetylcholinesterase inhibitor|microtubule inhibitor	PCA	1.1666007608987454	L2 distance
+acetylcholinesterase inhibitor|microtubule inhibitor	Complete	2.1831690493307505	L2 distance
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	Vanilla	-0.47249823955190656	L2 distance
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	Beta	-0.86432568738152	L2 distance
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	MMD	-0.1985960340256159	L2 distance
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	PCA	-1.2618315411735845	L2 distance
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	Complete	-0.3338296967309386	L2 distance
+EGFR inhibitor|protein tyrosine kinase inhibitor	Vanilla	2.995370847499689	L2 distance
+EGFR inhibitor|protein tyrosine kinase inhibitor	Beta	2.9454024124579155	L2 distance
+EGFR inhibitor|protein tyrosine kinase inhibitor	MMD	3.051450014247107	L2 distance
+EGFR inhibitor|protein tyrosine kinase inhibitor	PCA	2.7708477674066048	L2 distance
+EGFR inhibitor|protein tyrosine kinase inhibitor	Complete	2.120844318276855	L2 distance
+leukotriene receptor antagonist|lipoxygenase inhibitor	Vanilla	-1.1273294594142373	L2 distance
+leukotriene receptor antagonist|lipoxygenase inhibitor	Beta	-0.23712971058668714	L2 distance
+leukotriene receptor antagonist|lipoxygenase inhibitor	MMD	-0.507408661589731	L2 distance
+leukotriene receptor antagonist|lipoxygenase inhibitor	PCA	-0.6033102855682185	L2 distance
+leukotriene receptor antagonist|lipoxygenase inhibitor	Complete	-0.9032695597326669	L2 distance
+apoptosis stimulant|ribonucleotide reductase inhibitor	Vanilla	2.0359896239630895	L2 distance
+apoptosis stimulant|ribonucleotide reductase inhibitor	Beta	2.8885384173552584	L2 distance
+apoptosis stimulant|ribonucleotide reductase inhibitor	MMD	0.7076366330340329	L2 distance
+apoptosis stimulant|ribonucleotide reductase inhibitor	PCA	0.82257781188752	L2 distance
+apoptosis stimulant|ribonucleotide reductase inhibitor	Complete	0.9705288957351377	L2 distance
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	Vanilla	0.7692411043967613	L2 distance
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	Beta	0.5199056327450757	L2 distance
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	MMD	-1.130499493109099	L2 distance
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	PCA	-1.3266695699739974	L2 distance
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	Complete	-1.4935207595677868	L2 distance
+DNA inhibitor|topoisomerase inhibitor	Vanilla	-3.0583257336139464	L2 distance
+DNA inhibitor|topoisomerase inhibitor	Beta	-3.0012102778216656	L2 distance
+DNA inhibitor|topoisomerase inhibitor	MMD	-3.1382879163867616	L2 distance
+DNA inhibitor|topoisomerase inhibitor	PCA	-2.986181729466255	L2 distance
+DNA inhibitor|topoisomerase inhibitor	Complete	-3.05299307341163	L2 distance
+cyclooxygenase inhibitor|opioid receptor agonist	Vanilla	0.012752843122578872	L2 distance
+cyclooxygenase inhibitor|opioid receptor agonist	Beta	1.5767037872843368	L2 distance
+cyclooxygenase inhibitor|opioid receptor agonist	MMD	-0.38897643389847564	L2 distance
+cyclooxygenase inhibitor|opioid receptor agonist	PCA	0.2204521409302324	L2 distance
+cyclooxygenase inhibitor|opioid receptor agonist	Complete	-0.4728541235543335	L2 distance
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	Vanilla	-1.701245353676625	L2 distance
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	Beta	-0.5755026814200377	L2 distance
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	MMD	-0.503021460407425	L2 distance
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	PCA	-1.5810187524762207	L2 distance
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	Complete	-0.8421127374837262	L2 distance
+antiviral|RNA synthesis inhibitor	Vanilla	2.4254120101951044	L2 distance
+antiviral|RNA synthesis inhibitor	Beta	1.0476873097205337	L2 distance
+antiviral|RNA synthesis inhibitor	MMD	2.207966565433511	L2 distance
+antiviral|RNA synthesis inhibitor	PCA	1.6816867092477206	L2 distance
+antiviral|RNA synthesis inhibitor	Complete	1.5453064251872062	L2 distance
+cyclooxygenase inhibitor|lipoxygenase inhibitor	Vanilla	-2.354261204448381	L2 distance
+cyclooxygenase inhibitor|lipoxygenase inhibitor	Beta	-1.2565006687043432	L2 distance
+cyclooxygenase inhibitor|lipoxygenase inhibitor	MMD	-1.063010586666303	L2 distance
+cyclooxygenase inhibitor|lipoxygenase inhibitor	PCA	-1.6958454927233604	L2 distance
+cyclooxygenase inhibitor|lipoxygenase inhibitor	Complete	-2.0474370770091417	L2 distance
+glucocorticoid receptor agonist|immunosuppressant	Vanilla	0.5734363155111575	L2 distance
+glucocorticoid receptor agonist|immunosuppressant	Beta	-2.450384769817844	L2 distance
+glucocorticoid receptor agonist|immunosuppressant	MMD	0.5901728178116493	L2 distance
+glucocorticoid receptor agonist|immunosuppressant	PCA	-2.855755287761595	L2 distance
+glucocorticoid receptor agonist|immunosuppressant	Complete	-3.0050232961388113	L2 distance
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	Vanilla	-0.46761671212737765	L2 distance
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	Beta	0.9607025523019954	L2 distance
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	MMD	-0.6878805619537085	L2 distance
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	PCA	0.7514826656074978	L2 distance
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	Complete	1.3644908237318862	L2 distance
+cyclooxygenase inhibitor|PPAR receptor agonist	Vanilla	1.0472742312384664	L2 distance
+cyclooxygenase inhibitor|PPAR receptor agonist	Beta	-0.07686681612182389	L2 distance
+cyclooxygenase inhibitor|PPAR receptor agonist	MMD	0.9093983853562262	L2 distance
+cyclooxygenase inhibitor|PPAR receptor agonist	PCA	-0.6125731969756222	L2 distance
+cyclooxygenase inhibitor|PPAR receptor agonist	Complete	-0.5676901835702597	L2 distance
+aromatase inhibitor|TRPV antagonist	Vanilla	-0.10115428995730641	L2 distance
+aromatase inhibitor|TRPV antagonist	Beta	2.3113991670128478	L2 distance
+aromatase inhibitor|TRPV antagonist	MMD	1.342589525402686	L2 distance
+aromatase inhibitor|TRPV antagonist	PCA	1.7740405126177716	L2 distance
+aromatase inhibitor|TRPV antagonist	Complete	1.8936830201286987	L2 distance
+adrenergic receptor antagonist|glutamate receptor antagonist	Vanilla	0.36973250682709036	L2 distance
+adrenergic receptor antagonist|glutamate receptor antagonist	Beta	1.1887540460110273	L2 distance
+adrenergic receptor antagonist|glutamate receptor antagonist	MMD	1.2162697249201675	L2 distance
+adrenergic receptor antagonist|glutamate receptor antagonist	PCA	1.9782566634521748	L2 distance
+adrenergic receptor antagonist|glutamate receptor antagonist	Complete	1.9565972494007622	L2 distance
+RNA synthesis inhibitor|topoisomerase inhibitor	Vanilla	-2.8213472136471136	L2 distance
+RNA synthesis inhibitor|topoisomerase inhibitor	Beta	-2.440701933636046	L2 distance
+RNA synthesis inhibitor|topoisomerase inhibitor	MMD	-3.1016187440539817	L2 distance
+RNA synthesis inhibitor|topoisomerase inhibitor	PCA	-1.6486724466094123	L2 distance
+RNA synthesis inhibitor|topoisomerase inhibitor	Complete	-1.6658993112467158	L2 distance
+adrenergic receptor antagonist|calcium channel blocker	Vanilla	-1.2977945162374815	L2 distance
+adrenergic receptor antagonist|calcium channel blocker	Beta	-2.3164467953647963	L2 distance
+adrenergic receptor antagonist|calcium channel blocker	MMD	-2.0632119154469204	L2 distance
+adrenergic receptor antagonist|calcium channel blocker	PCA	-2.173083054989102	L2 distance
+adrenergic receptor antagonist|calcium channel blocker	Complete	-2.041698378862481	L2 distance
+Aurora kinase inhibitor|JAK inhibitor	Vanilla	-3.1124377159607524	L2 distance
+Aurora kinase inhibitor|JAK inhibitor	Beta	-3.083190864487757	L2 distance
+Aurora kinase inhibitor|JAK inhibitor	MMD	-3.125840429444187	L2 distance
+Aurora kinase inhibitor|JAK inhibitor	PCA	-3.1026375774739585	L2 distance
+Aurora kinase inhibitor|JAK inhibitor	Complete	-3.075505404035922	L2 distance
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	Vanilla	-0.523475005534663	L2 distance
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	Beta	-0.3031037166814779	L2 distance
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	MMD	-0.2741528107884893	L2 distance
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	PCA	-0.142803707796502	L2 distance
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	Complete	0.2907962795380856	L2 distance
+EGFR inhibitor|VEGFR inhibitor	Vanilla	-1.1019454020034196	L2 distance
+EGFR inhibitor|VEGFR inhibitor	Beta	-2.601765845428696	L2 distance
+EGFR inhibitor|VEGFR inhibitor	MMD	-1.5249204420246392	L2 distance
+EGFR inhibitor|VEGFR inhibitor	PCA	1.709600603937688	L2 distance
+EGFR inhibitor|VEGFR inhibitor	Complete	2.5294016900651703	L2 distance
+dopamine receptor antagonist|serotonin receptor agonist	Vanilla	-0.7058233931260411	L2 distance
+dopamine receptor antagonist|serotonin receptor agonist	Beta	-0.5099208942327561	L2 distance
+dopamine receptor antagonist|serotonin receptor agonist	MMD	-1.8123913654803323	L2 distance
+dopamine receptor antagonist|serotonin receptor agonist	PCA	-1.2752021115014216	L2 distance
+dopamine receptor antagonist|serotonin receptor agonist	Complete	-0.6232975730084324	L2 distance
+glutamate receptor antagonist|sigma receptor agonist	Vanilla	-0.8923330391651744	L2 distance
+glutamate receptor antagonist|sigma receptor agonist	Beta	-1.82605965706943	L2 distance
+glutamate receptor antagonist|sigma receptor agonist	MMD	-0.9488941940022353	L2 distance
+glutamate receptor antagonist|sigma receptor agonist	PCA	-1.1645135375223779	L2 distance
+glutamate receptor antagonist|sigma receptor agonist	Complete	-0.904946565222207	L2 distance
+acetylcholinesterase inhibitor|cholinesterase inhibitor	Vanilla	0.7197638261783379	L2 distance
+acetylcholinesterase inhibitor|cholinesterase inhibitor	Beta	-1.6038067538401652	L2 distance
+acetylcholinesterase inhibitor|cholinesterase inhibitor	MMD	-0.38735487126812074	L2 distance
+acetylcholinesterase inhibitor|cholinesterase inhibitor	PCA	1.2801000941792948	L2 distance
+acetylcholinesterase inhibitor|cholinesterase inhibitor	Complete	1.579975561044576	L2 distance
+interferon inducer|toll-like receptor agonist	Vanilla	-0.010057806125756052	L2 distance
+interferon inducer|toll-like receptor agonist	Beta	-0.992574343279491	L2 distance
+interferon inducer|toll-like receptor agonist	MMD	-1.5181728487175468	L2 distance
+interferon inducer|toll-like receptor agonist	PCA	-0.27566141901808283	L2 distance
+interferon inducer|toll-like receptor agonist	Complete	-0.4448403517366844	L2 distance
+HCV inhibitor|protease inhibitor	Vanilla	-0.5534283368367702	L2 distance
+HCV inhibitor|protease inhibitor	Beta	0.0422504250541119	L2 distance
+HCV inhibitor|protease inhibitor	MMD	-0.1572228381343267	L2 distance
+HCV inhibitor|protease inhibitor	PCA	-0.7326028862427635	L2 distance
+HCV inhibitor|protease inhibitor	Complete	-0.4059900061802094	L2 distance
+cyclooxygenase inhibitor|platelet aggregation inhibitor	Vanilla	-0.8601411224594606	L2 distance
+cyclooxygenase inhibitor|platelet aggregation inhibitor	Beta	-0.06295707547499807	L2 distance
+cyclooxygenase inhibitor|platelet aggregation inhibitor	MMD	-0.6161693541643131	L2 distance
+cyclooxygenase inhibitor|platelet aggregation inhibitor	PCA	0.36740969771844617	L2 distance
+cyclooxygenase inhibitor|platelet aggregation inhibitor	Complete	-0.20041160407576025	L2 distance
+leukotriene receptor antagonist|phosphodiesterase inhibitor	Vanilla	-1.4624436710381068	L2 distance
+leukotriene receptor antagonist|phosphodiesterase inhibitor	Beta	-1.2737190885432754	L2 distance
+leukotriene receptor antagonist|phosphodiesterase inhibitor	MMD	-2.0952676333973903	L2 distance
+leukotriene receptor antagonist|phosphodiesterase inhibitor	PCA	-1.816747281632253	L2 distance
+leukotriene receptor antagonist|phosphodiesterase inhibitor	Complete	-2.249347170405219	L2 distance
+CDK inhibitor|glycogen synthase kinase inhibitor	Vanilla	2.505280480009517	L2 distance
+CDK inhibitor|glycogen synthase kinase inhibitor	Beta	2.652865840670862	L2 distance
+CDK inhibitor|glycogen synthase kinase inhibitor	MMD	1.9441390591734342	L2 distance
+CDK inhibitor|glycogen synthase kinase inhibitor	PCA	2.6230091773544606	L2 distance
+CDK inhibitor|glycogen synthase kinase inhibitor	Complete	2.4876621536840626	L2 distance
+ATP channel blocker|insulin secretagogue	Vanilla	-0.07787533438164242	L2 distance
+ATP channel blocker|insulin secretagogue	Beta	-0.18308857865105657	L2 distance
+ATP channel blocker|insulin secretagogue	MMD	-0.6587350044807653	L2 distance
+ATP channel blocker|insulin secretagogue	PCA	0.051274117001800866	L2 distance
+ATP channel blocker|insulin secretagogue	Complete	0.15689269283584295	L2 distance
+adenosine receptor antagonist|phosphodiesterase inhibitor	Vanilla	-1.6258223839478032	L2 distance
+adenosine receptor antagonist|phosphodiesterase inhibitor	Beta	-1.3295835268976515	L2 distance
+adenosine receptor antagonist|phosphodiesterase inhibitor	MMD	-2.26017016025914	L2 distance
+adenosine receptor antagonist|phosphodiesterase inhibitor	PCA	-1.4080585764349767	L2 distance
+adenosine receptor antagonist|phosphodiesterase inhibitor	Complete	-1.889242167350973	L2 distance
+platelet aggregation inhibitor|structural glycoprotein antagonist	Vanilla	-0.9518158670366621	L2 distance
+platelet aggregation inhibitor|structural glycoprotein antagonist	Beta	-0.9141745942396445	L2 distance
+platelet aggregation inhibitor|structural glycoprotein antagonist	MMD	-0.5046576492429637	L2 distance
+platelet aggregation inhibitor|structural glycoprotein antagonist	PCA	-0.6764995268780584	L2 distance
+platelet aggregation inhibitor|structural glycoprotein antagonist	Complete	-0.967701207980461	L2 distance
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	Vanilla	-0.4816741269357848	L2 distance
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	Beta	1.8655910847256416	L2 distance
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	MMD	-1.3515221872252057	L2 distance
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	PCA	0.013363052995696633	L2 distance
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	Complete	-0.15544791664711882	L2 distance
+apoptosis stimulant|NFkB pathway inhibitor	Vanilla	-0.8020704369399457	L2 distance
+apoptosis stimulant|NFkB pathway inhibitor	Beta	1.2275007294842384	L2 distance
+apoptosis stimulant|NFkB pathway inhibitor	MMD	-0.2623252237576248	L2 distance
+apoptosis stimulant|NFkB pathway inhibitor	PCA	-0.13490945221531642	L2 distance
+apoptosis stimulant|NFkB pathway inhibitor	Complete	0.06824849467499129	L2 distance
+benzodiazepine receptor agonist|HDAC inhibitor	Vanilla	2.6122519636907136	L2 distance
+benzodiazepine receptor agonist|HDAC inhibitor	Beta	0.044488096183649746	L2 distance
+benzodiazepine receptor agonist|HDAC inhibitor	MMD	1.78427695322489	L2 distance
+benzodiazepine receptor agonist|HDAC inhibitor	PCA	2.311470423191312	L2 distance
+benzodiazepine receptor agonist|HDAC inhibitor	Complete	2.5736548911097126	L2 distance
+adrenergic receptor agonist|serotonin receptor agonist	Vanilla	-1.3355582609109453	L2 distance
+adrenergic receptor agonist|serotonin receptor agonist	Beta	-1.2128478071122761	L2 distance
+adrenergic receptor agonist|serotonin receptor agonist	MMD	-1.959894112306937	L2 distance
+adrenergic receptor agonist|serotonin receptor agonist	PCA	-1.3160393078389891	L2 distance
+adrenergic receptor agonist|serotonin receptor agonist	Complete	-1.6440662234197518	L2 distance
+antimalarial agent|DNA inhibitor	Vanilla	2.8974502453366964	L2 distance
+antimalarial agent|DNA inhibitor	Beta	0.09204895992528994	L2 distance
+antimalarial agent|DNA inhibitor	MMD	-0.7497784165519874	L2 distance
+antimalarial agent|DNA inhibitor	PCA	1.814404008587203	L2 distance
+antimalarial agent|DNA inhibitor	Complete	1.9774560957409721	L2 distance
+DNA synthesis inhibitor|microtubule inhibitor	Vanilla	2.4452664170042477	L2 distance
+DNA synthesis inhibitor|microtubule inhibitor	Beta	2.433467073638309	L2 distance
+DNA synthesis inhibitor|microtubule inhibitor	MMD	1.0928804165939043	L2 distance
+DNA synthesis inhibitor|microtubule inhibitor	PCA	2.035303914249849	L2 distance
+DNA synthesis inhibitor|microtubule inhibitor	Complete	2.9545485910864597	L2 distance
+potassium channel blocker|sodium channel blocker	Vanilla	1.605376633982305	L2 distance
+potassium channel blocker|sodium channel blocker	Beta	2.1610417283820196	L2 distance
+potassium channel blocker|sodium channel blocker	MMD	1.4454339343175588	L2 distance
+potassium channel blocker|sodium channel blocker	PCA	2.703721651415671	L2 distance
+potassium channel blocker|sodium channel blocker	Complete	2.724084094316054	L2 distance
+SRC inhibitor|tubulin polymerization inhibitor	Vanilla	-1.501167792112282	L2 distance
+SRC inhibitor|tubulin polymerization inhibitor	Beta	-2.9640274109835505	L2 distance
+SRC inhibitor|tubulin polymerization inhibitor	MMD	-2.7327683747843423	L2 distance
+SRC inhibitor|tubulin polymerization inhibitor	PCA	-2.7697276343368595	L2 distance
+SRC inhibitor|tubulin polymerization inhibitor	Complete	-2.5983322123201535	L2 distance
+adrenergic receptor agonist|imidazoline receptor agonist	Vanilla	1.8778692959774355	L2 distance
+adrenergic receptor agonist|imidazoline receptor agonist	Beta	0.8939362045422563	L2 distance
+adrenergic receptor agonist|imidazoline receptor agonist	MMD	0.32535914951480993	L2 distance
+adrenergic receptor agonist|imidazoline receptor agonist	PCA	0.7455163698536279	L2 distance
+adrenergic receptor agonist|imidazoline receptor agonist	Complete	1.2197874829821551	L2 distance
+SRC inhibitor|VEGFR inhibitor	Vanilla	-0.19345210368781124	L2 distance
+SRC inhibitor|VEGFR inhibitor	Beta	-0.09960478441753047	L2 distance
+SRC inhibitor|VEGFR inhibitor	MMD	-0.04606608959829344	L2 distance
+SRC inhibitor|VEGFR inhibitor	PCA	1.153465308216723	L2 distance
+SRC inhibitor|VEGFR inhibitor	Complete	0.9880864145913966	L2 distance
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	Vanilla	-1.5568226581890536	L2 distance
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	Beta	-1.7178693381416357	L2 distance
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	MMD	-0.8306605661962775	L2 distance
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	PCA	-1.9573783388166088	L2 distance
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	Complete	-1.3423142222503528	L2 distance
+cyclooxygenase inhibitor|NFkB pathway inhibitor	Vanilla	0.18584675425312866	L2 distance
+cyclooxygenase inhibitor|NFkB pathway inhibitor	Beta	0.4253483154491306	L2 distance
+cyclooxygenase inhibitor|NFkB pathway inhibitor	MMD	1.4349351505397177	L2 distance
+cyclooxygenase inhibitor|NFkB pathway inhibitor	PCA	0.41275344659955887	L2 distance
+cyclooxygenase inhibitor|NFkB pathway inhibitor	Complete	0.9009746656189035	L2 distance
+NFkB pathway inhibitor|proteasome inhibitor	Vanilla	3.154425048942615	Pearson correlation
+NFkB pathway inhibitor|proteasome inhibitor	Beta	3.160176213330822	Pearson correlation
+NFkB pathway inhibitor|proteasome inhibitor	MMD	3.1595519846688638	Pearson correlation
+NFkB pathway inhibitor|proteasome inhibitor	PCA	2.915413200924351	Pearson correlation
+NFkB pathway inhibitor|proteasome inhibitor	Complete	3.059693178263506	Pearson correlation
+dopamine receptor antagonist|serotonin receptor antagonist	Vanilla	0.6623954108955403	Pearson correlation
+dopamine receptor antagonist|serotonin receptor antagonist	Beta	-0.9932870083981569	Pearson correlation
+dopamine receptor antagonist|serotonin receptor antagonist	MMD	0.2259576852997222	Pearson correlation
+dopamine receptor antagonist|serotonin receptor antagonist	PCA	0.8083885816569832	Pearson correlation
+dopamine receptor antagonist|serotonin receptor antagonist	Complete	0.48107567663104056	Pearson correlation
+cyclooxygenase inhibitor|prostanoid receptor antagonist	Vanilla	-0.6937403019396614	Pearson correlation
+cyclooxygenase inhibitor|prostanoid receptor antagonist	Beta	-1.1726247346082084	Pearson correlation
+cyclooxygenase inhibitor|prostanoid receptor antagonist	MMD	-1.9178433965376869	Pearson correlation
+cyclooxygenase inhibitor|prostanoid receptor antagonist	PCA	-0.03960171183490367	Pearson correlation
+cyclooxygenase inhibitor|prostanoid receptor antagonist	Complete	0.1292915990698338	Pearson correlation
+mTOR inhibitor|PI3K inhibitor	Vanilla	2.719437419724935	Pearson correlation
+mTOR inhibitor|PI3K inhibitor	Beta	3.1219844556383416	Pearson correlation
+mTOR inhibitor|PI3K inhibitor	MMD	2.85188392001341	Pearson correlation
+mTOR inhibitor|PI3K inhibitor	PCA	3.0000616445791715	Pearson correlation
+mTOR inhibitor|PI3K inhibitor	Complete	3.064228590584894	Pearson correlation
+insulin sensitizer|PPAR receptor agonist	Vanilla	0.8787454750752753	Pearson correlation
+insulin sensitizer|PPAR receptor agonist	Beta	-0.2833615208602811	Pearson correlation
+insulin sensitizer|PPAR receptor agonist	MMD	1.2710323310919838	Pearson correlation
+insulin sensitizer|PPAR receptor agonist	PCA	0.8171398663728888	Pearson correlation
+insulin sensitizer|PPAR receptor agonist	Complete	0.5721456014657152	Pearson correlation
+FGFR inhibitor|VEGFR inhibitor	Vanilla	-0.9238052882142754	Pearson correlation
+FGFR inhibitor|VEGFR inhibitor	Beta	-2.4834076676829375	Pearson correlation
+FGFR inhibitor|VEGFR inhibitor	MMD	1.3428421498416556	Pearson correlation
+FGFR inhibitor|VEGFR inhibitor	PCA	-0.4641760302255847	Pearson correlation
+FGFR inhibitor|VEGFR inhibitor	Complete	-1.1962535171045376	Pearson correlation
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	Vanilla	0.49919335126658015	Pearson correlation
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	Beta	0.5599987003763793	Pearson correlation
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	MMD	0.46977236288071794	Pearson correlation
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	PCA	0.3568691263556057	Pearson correlation
+estrogen receptor antagonist|selective estrogen receptor modulator (SERM)	Complete	0.6260207531372625	Pearson correlation
+serotonin receptor agonist|serotonin receptor antagonist	Vanilla	1.336984668999401	Pearson correlation
+serotonin receptor agonist|serotonin receptor antagonist	Beta	1.3219118860140526	Pearson correlation
+serotonin receptor agonist|serotonin receptor antagonist	MMD	0.755464359671664	Pearson correlation
+serotonin receptor agonist|serotonin receptor antagonist	PCA	1.4432162807217555	Pearson correlation
+serotonin receptor agonist|serotonin receptor antagonist	Complete	1.4584712729957912	Pearson correlation
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	Vanilla	-0.37465328186026503	Pearson correlation
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	Beta	-0.9867883041937844	Pearson correlation
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	MMD	-0.048308630135773974	Pearson correlation
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	PCA	0.22527933384292093	Pearson correlation
+dehydrogenase inhibitor|inositol monophosphatase inhibitor	Complete	-0.027706451814447922	Pearson correlation
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	Vanilla	-0.20752195020584435	Pearson correlation
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	Beta	1.0038736692735357	Pearson correlation
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	MMD	0.3327748017903161	Pearson correlation
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	PCA	0.22847390824065572	Pearson correlation
+PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	Complete	-1.4047593455655834	Pearson correlation
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	Vanilla	-0.4954323752092776	Pearson correlation
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	Beta	0.3274115465464922	Pearson correlation
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	MMD	0.5568127608016711	Pearson correlation
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	PCA	0.23963457768034757	Pearson correlation
+11-beta hydroxysteroid dehydrogenase inhibitor|FXR agonist	Complete	-1.0638038135809613	Pearson correlation
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	Vanilla	-0.9523507721631689	Pearson correlation
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	Beta	0.5905197345371851	Pearson correlation
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	MMD	0.36456966644685024	Pearson correlation
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	PCA	0.1776034140026207	Pearson correlation
+angiogenesis inhibitor|tumor necrosis factor production inhibitor	Complete	0.5014060054734888	Pearson correlation
+norepinephrine reputake inhibitor|tricyclic antidepressant	Vanilla	-0.5910000430739252	Pearson correlation
+norepinephrine reputake inhibitor|tricyclic antidepressant	Beta	-1.5180669728474558	Pearson correlation
+norepinephrine reputake inhibitor|tricyclic antidepressant	MMD	-1.6958589613582638	Pearson correlation
+norepinephrine reputake inhibitor|tricyclic antidepressant	PCA	-0.17097804361792743	Pearson correlation
+norepinephrine reputake inhibitor|tricyclic antidepressant	Complete	-0.796648003866847	Pearson correlation
+GABA receptor antagonist|GABA receptor modulator	Vanilla	0.24062574164995607	Pearson correlation
+GABA receptor antagonist|GABA receptor modulator	Beta	-0.7774722880353705	Pearson correlation
+GABA receptor antagonist|GABA receptor modulator	MMD	-0.31410324363466086	Pearson correlation
+GABA receptor antagonist|GABA receptor modulator	PCA	0.5972941394887766	Pearson correlation
+GABA receptor antagonist|GABA receptor modulator	Complete	0.6347867218500376	Pearson correlation
+sodium channel blocker|T-type calcium channel blocker	Vanilla	0.8697936543349787	Pearson correlation
+sodium channel blocker|T-type calcium channel blocker	Beta	0.16050792591087693	Pearson correlation
+sodium channel blocker|T-type calcium channel blocker	MMD	0.16283564055117397	Pearson correlation
+sodium channel blocker|T-type calcium channel blocker	PCA	1.0522544733282853	Pearson correlation
+sodium channel blocker|T-type calcium channel blocker	Complete	0.08924465971482068	Pearson correlation
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	Vanilla	0.5681535492833759	Pearson correlation
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	Beta	-1.102383809448029	Pearson correlation
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	MMD	0.9473171799566947	Pearson correlation
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	PCA	0.719428979328133	Pearson correlation
+DNA directed DNA polymerase inhibitor|DNA synthesis inhibitor	Complete	0.720769765510999	Pearson correlation
+calcium sensitizer|phosphodiesterase inhibitor	Vanilla	0.32528829902764733	Pearson correlation
+calcium sensitizer|phosphodiesterase inhibitor	Beta	0.8726919105261575	Pearson correlation
+calcium sensitizer|phosphodiesterase inhibitor	MMD	0.6866572098639792	Pearson correlation
+calcium sensitizer|phosphodiesterase inhibitor	PCA	0.3797532080861088	Pearson correlation
+calcium sensitizer|phosphodiesterase inhibitor	Complete	0.8671199780346751	Pearson correlation
+microtubule inhibitor|tubulin polymerization inhibitor	Vanilla	3.1344407476993954	Pearson correlation
+microtubule inhibitor|tubulin polymerization inhibitor	Beta	3.153804727515834	Pearson correlation
+microtubule inhibitor|tubulin polymerization inhibitor	MMD	3.1582403846080744	Pearson correlation
+microtubule inhibitor|tubulin polymerization inhibitor	PCA	2.9777325368679737	Pearson correlation
+microtubule inhibitor|tubulin polymerization inhibitor	Complete	2.9788936247829967	Pearson correlation
+DNA alkylating agent|DNA synthesis inhibitor	Vanilla	2.646120608228658	Pearson correlation
+DNA alkylating agent|DNA synthesis inhibitor	Beta	2.5315749836986257	Pearson correlation
+DNA alkylating agent|DNA synthesis inhibitor	MMD	2.9862875230194645	Pearson correlation
+DNA alkylating agent|DNA synthesis inhibitor	PCA	2.540624214864206	Pearson correlation
+DNA alkylating agent|DNA synthesis inhibitor	Complete	2.2978171600316877	Pearson correlation
+cholesterol inhibitor|lipase clearing factor inhibitor	Vanilla	0.6242683538869385	Pearson correlation
+cholesterol inhibitor|lipase clearing factor inhibitor	Beta	0.7867421073932203	Pearson correlation
+cholesterol inhibitor|lipase clearing factor inhibitor	MMD	0.20710672372415248	Pearson correlation
+cholesterol inhibitor|lipase clearing factor inhibitor	PCA	0.2557665872951258	Pearson correlation
+cholesterol inhibitor|lipase clearing factor inhibitor	Complete	0.5176281341770198	Pearson correlation
+thromboxane receptor antagonist|thromboxane synthase inhibitor	Vanilla	-1.0930796661210447	Pearson correlation
+thromboxane receptor antagonist|thromboxane synthase inhibitor	Beta	-1.3638016013228829	Pearson correlation
+thromboxane receptor antagonist|thromboxane synthase inhibitor	MMD	-1.2217596749675095	Pearson correlation
+thromboxane receptor antagonist|thromboxane synthase inhibitor	PCA	-1.0447057161188933	Pearson correlation
+thromboxane receptor antagonist|thromboxane synthase inhibitor	Complete	-0.7691258876816935	Pearson correlation
+cytochrome P450 inhibitor|protein synthesis inhibitor	Vanilla	-3.0188566905898586	Pearson correlation
+cytochrome P450 inhibitor|protein synthesis inhibitor	Beta	-0.21556267516623706	Pearson correlation
+cytochrome P450 inhibitor|protein synthesis inhibitor	MMD	-1.813341270400958	Pearson correlation
+cytochrome P450 inhibitor|protein synthesis inhibitor	PCA	-3.1344504735989656	Pearson correlation
+cytochrome P450 inhibitor|protein synthesis inhibitor	Complete	-2.9362944777521647	Pearson correlation
+phosphodiesterase inhibitor|sodium channel blocker	Vanilla	1.9414041585078579	Pearson correlation
+phosphodiesterase inhibitor|sodium channel blocker	Beta	1.5353001788370033	Pearson correlation
+phosphodiesterase inhibitor|sodium channel blocker	MMD	0.8719585969167775	Pearson correlation
+phosphodiesterase inhibitor|sodium channel blocker	PCA	1.5967233467260389	Pearson correlation
+phosphodiesterase inhibitor|sodium channel blocker	Complete	1.5433193879546392	Pearson correlation
+AKT inhibitor|mTOR inhibitor	Vanilla	2.6881129768780063	Pearson correlation
+AKT inhibitor|mTOR inhibitor	Beta	0.6874445641068125	Pearson correlation
+AKT inhibitor|mTOR inhibitor	MMD	2.2056951799606335	Pearson correlation
+AKT inhibitor|mTOR inhibitor	PCA	-2.916712404874533	Pearson correlation
+AKT inhibitor|mTOR inhibitor	Complete	-2.9305979212856514	Pearson correlation
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	Vanilla	-0.2868164941136372	Pearson correlation
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	Beta	-0.6116304939508654	Pearson correlation
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	MMD	-0.13925879086248616	Pearson correlation
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	PCA	0.04014858579222539	Pearson correlation
+DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor	Complete	-0.30064100662976523	Pearson correlation
+adrenergic receptor antagonist|serotonin receptor antagonist	Vanilla	1.7556055008059894	Pearson correlation
+adrenergic receptor antagonist|serotonin receptor antagonist	Beta	2.591922870718671	Pearson correlation
+adrenergic receptor antagonist|serotonin receptor antagonist	MMD	1.3428506516111158	Pearson correlation
+adrenergic receptor antagonist|serotonin receptor antagonist	PCA	1.7669674488773248	Pearson correlation
+adrenergic receptor antagonist|serotonin receptor antagonist	Complete	1.5576628458570891	Pearson correlation
+hedgehog pathway inhibitor|smoothened receptor antagonist	Vanilla	-2.101165038629155	Pearson correlation
+hedgehog pathway inhibitor|smoothened receptor antagonist	Beta	-0.7368079019885508	Pearson correlation
+hedgehog pathway inhibitor|smoothened receptor antagonist	MMD	0.6263604797303308	Pearson correlation
+hedgehog pathway inhibitor|smoothened receptor antagonist	PCA	-0.301461199007962	Pearson correlation
+hedgehog pathway inhibitor|smoothened receptor antagonist	Complete	-1.077980759464639	Pearson correlation
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	Vanilla	0.24185977600144887	Pearson correlation
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	Beta	-0.8954346921561105	Pearson correlation
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	MMD	0.07390276294143648	Pearson correlation
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	PCA	0.5318550948831055	Pearson correlation
+bacterial 30S ribosomal subunit inhibitor|bacterial 50S ribosomal subunit inhibitor	Complete	0.4215339187023441	Pearson correlation
+acetylcholine receptor agonist|benzodiazepine receptor agonist	Vanilla	1.1473071270529887	Pearson correlation
+acetylcholine receptor agonist|benzodiazepine receptor agonist	Beta	0.7895955374137054	Pearson correlation
+acetylcholine receptor agonist|benzodiazepine receptor agonist	MMD	1.4671187825484817	Pearson correlation
+acetylcholine receptor agonist|benzodiazepine receptor agonist	PCA	1.4587533909680492	Pearson correlation
+acetylcholine receptor agonist|benzodiazepine receptor agonist	Complete	1.7424149220690868	Pearson correlation
+opioid receptor agonist|opioid receptor antagonist	Vanilla	1.4091214843255895	Pearson correlation
+opioid receptor agonist|opioid receptor antagonist	Beta	0.5459815818123771	Pearson correlation
+opioid receptor agonist|opioid receptor antagonist	MMD	0.6067683634495105	Pearson correlation
+opioid receptor agonist|opioid receptor antagonist	PCA	-0.6430140484529347	Pearson correlation
+opioid receptor agonist|opioid receptor antagonist	Complete	-1.4510202349238954	Pearson correlation
+melatonin receptor agonist|serotonin receptor antagonist	Vanilla	0.5365733942972064	Pearson correlation
+melatonin receptor agonist|serotonin receptor antagonist	Beta	-0.7485420760804372	Pearson correlation
+melatonin receptor agonist|serotonin receptor antagonist	MMD	0.007668892260066149	Pearson correlation
+melatonin receptor agonist|serotonin receptor antagonist	PCA	-0.11994068099186121	Pearson correlation
+melatonin receptor agonist|serotonin receptor antagonist	Complete	0.3423136076554043	Pearson correlation
+dopamine receptor agonist|serotonin receptor antagonist	Vanilla	1.5930535935208665	Pearson correlation
+dopamine receptor agonist|serotonin receptor antagonist	Beta	0.8214045753037729	Pearson correlation
+dopamine receptor agonist|serotonin receptor antagonist	MMD	1.10023294611237	Pearson correlation
+dopamine receptor agonist|serotonin receptor antagonist	PCA	0.6730022060352499	Pearson correlation
+dopamine receptor agonist|serotonin receptor antagonist	Complete	0.49903122743993344	Pearson correlation
+DNA synthesis inhibitor|thymidylate synthase inhibitor	Vanilla	-2.5766832756104647	Pearson correlation
+DNA synthesis inhibitor|thymidylate synthase inhibitor	Beta	-1.6594202856986218	Pearson correlation
+DNA synthesis inhibitor|thymidylate synthase inhibitor	MMD	-2.970743496164765	Pearson correlation
+DNA synthesis inhibitor|thymidylate synthase inhibitor	PCA	-1.224953868070364	Pearson correlation
+DNA synthesis inhibitor|thymidylate synthase inhibitor	Complete	-2.6383126617917156	Pearson correlation
+histamine receptor agonist|histamine receptor antagonist	Vanilla	1.023673112790076	Pearson correlation
+histamine receptor agonist|histamine receptor antagonist	Beta	0.886593363174639	Pearson correlation
+histamine receptor agonist|histamine receptor antagonist	MMD	1.061063373754576	Pearson correlation
+histamine receptor agonist|histamine receptor antagonist	PCA	0.6833161908666685	Pearson correlation
+histamine receptor agonist|histamine receptor antagonist	Complete	1.4139771340455995	Pearson correlation
+RAF inhibitor|VEGFR inhibitor	Vanilla	1.8506634068775278	Pearson correlation
+RAF inhibitor|VEGFR inhibitor	Beta	0.14083403478235038	Pearson correlation
+RAF inhibitor|VEGFR inhibitor	MMD	1.343211798678621	Pearson correlation
+RAF inhibitor|VEGFR inhibitor	PCA	0.23823439287027617	Pearson correlation
+RAF inhibitor|VEGFR inhibitor	Complete	-0.45512870262893373	Pearson correlation
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	Vanilla	-0.9039351439294505	Pearson correlation
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	Beta	-1.3215870570553738	Pearson correlation
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	MMD	-0.9862432594975759	Pearson correlation
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	PCA	-1.4048619592033942	Pearson correlation
+DNA directed DNA polymerase inhibitor|nucleoside reverse transcriptase inhibitor	Complete	-2.013360385648995	Pearson correlation
+melatonin receptor agonist|nitric oxide synthase inhibitor	Vanilla	0.009343679281476714	Pearson correlation
+melatonin receptor agonist|nitric oxide synthase inhibitor	Beta	0.383911613382473	Pearson correlation
+melatonin receptor agonist|nitric oxide synthase inhibitor	MMD	-0.4705104923553908	Pearson correlation
+melatonin receptor agonist|nitric oxide synthase inhibitor	PCA	0.9428302997884207	Pearson correlation
+melatonin receptor agonist|nitric oxide synthase inhibitor	Complete	0.8704371844889727	Pearson correlation
+histamine receptor antagonist|platelet activating factor receptor antagonist	Vanilla	-1.5553555377652648	Pearson correlation
+histamine receptor antagonist|platelet activating factor receptor antagonist	Beta	-1.7321839998238822	Pearson correlation
+histamine receptor antagonist|platelet activating factor receptor antagonist	MMD	-2.078943550289246	Pearson correlation
+histamine receptor antagonist|platelet activating factor receptor antagonist	PCA	-2.824869643712318	Pearson correlation
+histamine receptor antagonist|platelet activating factor receptor antagonist	Complete	-2.229143416171427	Pearson correlation
+estrogen receptor antagonist|progesterone receptor agonist	Vanilla	0.26151513005553784	Pearson correlation
+estrogen receptor antagonist|progesterone receptor agonist	Beta	0.9867580015264015	Pearson correlation
+estrogen receptor antagonist|progesterone receptor agonist	MMD	0.9497340397350348	Pearson correlation
+estrogen receptor antagonist|progesterone receptor agonist	PCA	0.18192279388096483	Pearson correlation
+estrogen receptor antagonist|progesterone receptor agonist	Complete	0.8784282333304465	Pearson correlation
+serotonin receptor antagonist|sodium channel blocker	Vanilla	1.6143332173147478	Pearson correlation
+serotonin receptor antagonist|sodium channel blocker	Beta	1.7550426853277266	Pearson correlation
+serotonin receptor antagonist|sodium channel blocker	MMD	0.6741303009177312	Pearson correlation
+serotonin receptor antagonist|sodium channel blocker	PCA	2.4413925106108967	Pearson correlation
+serotonin receptor antagonist|sodium channel blocker	Complete	2.4208806467501294	Pearson correlation
+acetylcholinesterase inhibitor|microtubule inhibitor	Vanilla	0.32580731419731024	Pearson correlation
+acetylcholinesterase inhibitor|microtubule inhibitor	Beta	-1.4542035517950294	Pearson correlation
+acetylcholinesterase inhibitor|microtubule inhibitor	MMD	-2.598961684177812	Pearson correlation
+acetylcholinesterase inhibitor|microtubule inhibitor	PCA	-0.6694123205214906	Pearson correlation
+acetylcholinesterase inhibitor|microtubule inhibitor	Complete	-1.0468323385888676	Pearson correlation
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	Vanilla	0.4398428799628291	Pearson correlation
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	Beta	0.4541929496511019	Pearson correlation
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	MMD	0.6825950368791853	Pearson correlation
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	PCA	1.15224505773352	Pearson correlation
+benzodiazepine receptor agonist|GABA benzodiazepine site receptor partial agonist	Complete	0.6178026555486973	Pearson correlation
+EGFR inhibitor|protein tyrosine kinase inhibitor	Vanilla	-3.158632537106179	Pearson correlation
+EGFR inhibitor|protein tyrosine kinase inhibitor	Beta	-2.895512271286686	Pearson correlation
+EGFR inhibitor|protein tyrosine kinase inhibitor	MMD	-3.078599493319672	Pearson correlation
+EGFR inhibitor|protein tyrosine kinase inhibitor	PCA	-2.912198394938596	Pearson correlation
+EGFR inhibitor|protein tyrosine kinase inhibitor	Complete	-2.79310172182655	Pearson correlation
+leukotriene receptor antagonist|lipoxygenase inhibitor	Vanilla	1.4161836208790668	Pearson correlation
+leukotriene receptor antagonist|lipoxygenase inhibitor	Beta	0.65058347118269	Pearson correlation
+leukotriene receptor antagonist|lipoxygenase inhibitor	MMD	0.8207610674690173	Pearson correlation
+leukotriene receptor antagonist|lipoxygenase inhibitor	PCA	0.7018810574853652	Pearson correlation
+leukotriene receptor antagonist|lipoxygenase inhibitor	Complete	1.07782190380226	Pearson correlation
+apoptosis stimulant|ribonucleotide reductase inhibitor	Vanilla	-2.5102666673990326	Pearson correlation
+apoptosis stimulant|ribonucleotide reductase inhibitor	Beta	-3.114626174558357	Pearson correlation
+apoptosis stimulant|ribonucleotide reductase inhibitor	MMD	-2.6405904536441778	Pearson correlation
+apoptosis stimulant|ribonucleotide reductase inhibitor	PCA	-1.7560510254949253	Pearson correlation
+apoptosis stimulant|ribonucleotide reductase inhibitor	Complete	-1.7551351311521952	Pearson correlation
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	Vanilla	0.2989834130558491	Pearson correlation
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	Beta	0.1984224820272327	Pearson correlation
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	MMD	0.9649190474781948	Pearson correlation
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	PCA	0.95683403514259	Pearson correlation
+norepinephrine reuptake inhibitor|serotoninânorepinephrine reuptake inhibitor (SNRI)	Complete	1.0002421669313002	Pearson correlation
+DNA inhibitor|topoisomerase inhibitor	Vanilla	3.0648094136157966	Pearson correlation
+DNA inhibitor|topoisomerase inhibitor	Beta	3.029145138272522	Pearson correlation
+DNA inhibitor|topoisomerase inhibitor	MMD	3.0930015850679444	Pearson correlation
+DNA inhibitor|topoisomerase inhibitor	PCA	2.794187790426244	Pearson correlation
+DNA inhibitor|topoisomerase inhibitor	Complete	2.914841151159783	Pearson correlation
+cyclooxygenase inhibitor|opioid receptor agonist	Vanilla	0.17076553810931933	Pearson correlation
+cyclooxygenase inhibitor|opioid receptor agonist	Beta	-1.2772952195404337	Pearson correlation
+cyclooxygenase inhibitor|opioid receptor agonist	MMD	0.7532823953798976	Pearson correlation
+cyclooxygenase inhibitor|opioid receptor agonist	PCA	0.00976447342765365	Pearson correlation
+cyclooxygenase inhibitor|opioid receptor agonist	Complete	-0.1358068802913603	Pearson correlation
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	Vanilla	0.7621880865386605	Pearson correlation
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	Beta	0.09741208838531489	Pearson correlation
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	MMD	0.9797112273880422	Pearson correlation
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	PCA	0.8231807777798472	Pearson correlation
+dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor	Complete	1.3282445328125077	Pearson correlation
+antiviral|RNA synthesis inhibitor	Vanilla	-1.2319078076566818	Pearson correlation
+antiviral|RNA synthesis inhibitor	Beta	-2.2608212844500586	Pearson correlation
+antiviral|RNA synthesis inhibitor	MMD	-0.2859239229807881	Pearson correlation
+antiviral|RNA synthesis inhibitor	PCA	-1.9738033838673577	Pearson correlation
+antiviral|RNA synthesis inhibitor	Complete	-2.584279560718325	Pearson correlation
+cyclooxygenase inhibitor|lipoxygenase inhibitor	Vanilla	2.0780349739045634	Pearson correlation
+cyclooxygenase inhibitor|lipoxygenase inhibitor	Beta	1.5238088093145592	Pearson correlation
+cyclooxygenase inhibitor|lipoxygenase inhibitor	MMD	1.3496704962030142	Pearson correlation
+cyclooxygenase inhibitor|lipoxygenase inhibitor	PCA	1.4779094291126396	Pearson correlation
+cyclooxygenase inhibitor|lipoxygenase inhibitor	Complete	1.136292242831476	Pearson correlation
+glucocorticoid receptor agonist|immunosuppressant	Vanilla	0.07422334748113502	Pearson correlation
+glucocorticoid receptor agonist|immunosuppressant	Beta	2.248665662345099	Pearson correlation
+glucocorticoid receptor agonist|immunosuppressant	MMD	0.435150517950105	Pearson correlation
+glucocorticoid receptor agonist|immunosuppressant	PCA	2.3632437729305353	Pearson correlation
+glucocorticoid receptor agonist|immunosuppressant	Complete	2.645260764358736	Pearson correlation
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	Vanilla	0.45057373289800806	Pearson correlation
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	Beta	-1.024405339337578	Pearson correlation
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	MMD	0.5660155912640794	Pearson correlation
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	PCA	0.04290857946359127	Pearson correlation
+adenosine reuptake inhibitor|phosphodiesterase inhibitor	Complete	-0.21292122485706594	Pearson correlation
+cyclooxygenase inhibitor|PPAR receptor agonist	Vanilla	-1.1050183233921222	Pearson correlation
+cyclooxygenase inhibitor|PPAR receptor agonist	Beta	-1.2677159792441752	Pearson correlation
+cyclooxygenase inhibitor|PPAR receptor agonist	MMD	-0.8083572936687152	Pearson correlation
+cyclooxygenase inhibitor|PPAR receptor agonist	PCA	0.8091701870056922	Pearson correlation
+cyclooxygenase inhibitor|PPAR receptor agonist	Complete	1.1893256908114105	Pearson correlation
+aromatase inhibitor|TRPV antagonist	Vanilla	-1.445292421796234	Pearson correlation
+aromatase inhibitor|TRPV antagonist	Beta	-2.8493797034444968	Pearson correlation
+aromatase inhibitor|TRPV antagonist	MMD	-0.36764535001238174	Pearson correlation
+aromatase inhibitor|TRPV antagonist	PCA	-1.0338234606349164	Pearson correlation
+aromatase inhibitor|TRPV antagonist	Complete	-2.471708115341746	Pearson correlation
+adrenergic receptor antagonist|glutamate receptor antagonist	Vanilla	-0.5573642266097166	Pearson correlation
+adrenergic receptor antagonist|glutamate receptor antagonist	Beta	-0.8906065629997699	Pearson correlation
+adrenergic receptor antagonist|glutamate receptor antagonist	MMD	-1.0824233660577123	Pearson correlation
+adrenergic receptor antagonist|glutamate receptor antagonist	PCA	-1.8027956787101245	Pearson correlation
+adrenergic receptor antagonist|glutamate receptor antagonist	Complete	-1.975018845830642	Pearson correlation
+RNA synthesis inhibitor|topoisomerase inhibitor	Vanilla	3.0582160646067202	Pearson correlation
+RNA synthesis inhibitor|topoisomerase inhibitor	Beta	3.0475956541436946	Pearson correlation
+RNA synthesis inhibitor|topoisomerase inhibitor	MMD	2.389924834903739	Pearson correlation
+RNA synthesis inhibitor|topoisomerase inhibitor	PCA	2.6971494817991095	Pearson correlation
+RNA synthesis inhibitor|topoisomerase inhibitor	Complete	2.3058190543264576	Pearson correlation
+adrenergic receptor antagonist|calcium channel blocker	Vanilla	1.9227857599656557	Pearson correlation
+adrenergic receptor antagonist|calcium channel blocker	Beta	1.6967889799503726	Pearson correlation
+adrenergic receptor antagonist|calcium channel blocker	MMD	2.2496226356923352	Pearson correlation
+adrenergic receptor antagonist|calcium channel blocker	PCA	2.050883648020358	Pearson correlation
+adrenergic receptor antagonist|calcium channel blocker	Complete	1.631037632615148	Pearson correlation
+Aurora kinase inhibitor|JAK inhibitor	Vanilla	3.119719914529446	Pearson correlation
+Aurora kinase inhibitor|JAK inhibitor	Beta	3.144402465277702	Pearson correlation
+Aurora kinase inhibitor|JAK inhibitor	MMD	2.948125979446311	Pearson correlation
+Aurora kinase inhibitor|JAK inhibitor	PCA	2.9058724787992034	Pearson correlation
+Aurora kinase inhibitor|JAK inhibitor	Complete	3.006476053895565	Pearson correlation
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	Vanilla	0.5098055088820524	Pearson correlation
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	Beta	-0.3085426213615434	Pearson correlation
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	MMD	0.3175626541484914	Pearson correlation
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	PCA	0.3879748628929139	Pearson correlation
+leukotriene synthesis inhibitor|lipoxygenase inhibitor	Complete	0.12198055301088212	Pearson correlation
+EGFR inhibitor|VEGFR inhibitor	Vanilla	-2.0519569359915746	Pearson correlation
+EGFR inhibitor|VEGFR inhibitor	Beta	2.8233917194356364	Pearson correlation
+EGFR inhibitor|VEGFR inhibitor	MMD	0.6346193059112826	Pearson correlation
+EGFR inhibitor|VEGFR inhibitor	PCA	-2.636101349384205	Pearson correlation
+EGFR inhibitor|VEGFR inhibitor	Complete	-2.586202574395771	Pearson correlation
+dopamine receptor antagonist|serotonin receptor agonist	Vanilla	0.3510864368069953	Pearson correlation
+dopamine receptor antagonist|serotonin receptor agonist	Beta	0.8320458837690367	Pearson correlation
+dopamine receptor antagonist|serotonin receptor agonist	MMD	1.852020174752724	Pearson correlation
+dopamine receptor antagonist|serotonin receptor agonist	PCA	0.47145924840860687	Pearson correlation
+dopamine receptor antagonist|serotonin receptor agonist	Complete	0.6340446777091292	Pearson correlation
+glutamate receptor antagonist|sigma receptor agonist	Vanilla	0.6623950392786246	Pearson correlation
+glutamate receptor antagonist|sigma receptor agonist	Beta	1.2018734645855984	Pearson correlation
+glutamate receptor antagonist|sigma receptor agonist	MMD	0.9314210500505905	Pearson correlation
+glutamate receptor antagonist|sigma receptor agonist	PCA	1.3338186859040904	Pearson correlation
+glutamate receptor antagonist|sigma receptor agonist	Complete	1.6854051368492688	Pearson correlation
+acetylcholinesterase inhibitor|cholinesterase inhibitor	Vanilla	-0.4026293408726812	Pearson correlation
+acetylcholinesterase inhibitor|cholinesterase inhibitor	Beta	1.365639162707754	Pearson correlation
+acetylcholinesterase inhibitor|cholinesterase inhibitor	MMD	0.6079342127925483	Pearson correlation
+acetylcholinesterase inhibitor|cholinesterase inhibitor	PCA	-1.384964116711408	Pearson correlation
+acetylcholinesterase inhibitor|cholinesterase inhibitor	Complete	-0.4487134817075012	Pearson correlation
+interferon inducer|toll-like receptor agonist	Vanilla	-0.6201522121364577	Pearson correlation
+interferon inducer|toll-like receptor agonist	Beta	1.5411977517052624	Pearson correlation
+interferon inducer|toll-like receptor agonist	MMD	0.853294152417588	Pearson correlation
+interferon inducer|toll-like receptor agonist	PCA	-0.042102918601779615	Pearson correlation
+interferon inducer|toll-like receptor agonist	Complete	0.10660484855138362	Pearson correlation
+HCV inhibitor|protease inhibitor	Vanilla	0.4811741265702164	Pearson correlation
+HCV inhibitor|protease inhibitor	Beta	-0.02075597571421036	Pearson correlation
+HCV inhibitor|protease inhibitor	MMD	0.20390968690168704	Pearson correlation
+HCV inhibitor|protease inhibitor	PCA	0.5022324746294882	Pearson correlation
+HCV inhibitor|protease inhibitor	Complete	0.8821030237556676	Pearson correlation
+cyclooxygenase inhibitor|platelet aggregation inhibitor	Vanilla	1.1316382230625925	Pearson correlation
+cyclooxygenase inhibitor|platelet aggregation inhibitor	Beta	0.34168292932282246	Pearson correlation
+cyclooxygenase inhibitor|platelet aggregation inhibitor	MMD	0.19213776854234774	Pearson correlation
+cyclooxygenase inhibitor|platelet aggregation inhibitor	PCA	0.09785905961805999	Pearson correlation
+cyclooxygenase inhibitor|platelet aggregation inhibitor	Complete	0.43177467311763384	Pearson correlation
+leukotriene receptor antagonist|phosphodiesterase inhibitor	Vanilla	1.6589647140594697	Pearson correlation
+leukotriene receptor antagonist|phosphodiesterase inhibitor	Beta	1.7515693972564503	Pearson correlation
+leukotriene receptor antagonist|phosphodiesterase inhibitor	MMD	2.357750127113197	Pearson correlation
+leukotriene receptor antagonist|phosphodiesterase inhibitor	PCA	1.158943763962988	Pearson correlation
+leukotriene receptor antagonist|phosphodiesterase inhibitor	Complete	1.654133373345992	Pearson correlation
+CDK inhibitor|glycogen synthase kinase inhibitor	Vanilla	-3.0875425465506474	Pearson correlation
+CDK inhibitor|glycogen synthase kinase inhibitor	Beta	-2.8716409516303676	Pearson correlation
+CDK inhibitor|glycogen synthase kinase inhibitor	MMD	-0.14803542565995204	Pearson correlation
+CDK inhibitor|glycogen synthase kinase inhibitor	PCA	-2.7524275032793715	Pearson correlation
+CDK inhibitor|glycogen synthase kinase inhibitor	Complete	-2.6554389087175565	Pearson correlation
+ATP channel blocker|insulin secretagogue	Vanilla	-1.118657059404709	Pearson correlation
+ATP channel blocker|insulin secretagogue	Beta	0.3075600969576259	Pearson correlation
+ATP channel blocker|insulin secretagogue	MMD	0.24781940090550858	Pearson correlation
+ATP channel blocker|insulin secretagogue	PCA	-0.03080715757050873	Pearson correlation
+ATP channel blocker|insulin secretagogue	Complete	-0.1302587620513282	Pearson correlation
+adenosine receptor antagonist|phosphodiesterase inhibitor	Vanilla	1.1892656694995134	Pearson correlation
+adenosine receptor antagonist|phosphodiesterase inhibitor	Beta	1.4940469513285355	Pearson correlation
+adenosine receptor antagonist|phosphodiesterase inhibitor	MMD	1.4552451807309639	Pearson correlation
+adenosine receptor antagonist|phosphodiesterase inhibitor	PCA	1.5035806678909394	Pearson correlation
+adenosine receptor antagonist|phosphodiesterase inhibitor	Complete	1.2091844807255154	Pearson correlation
+platelet aggregation inhibitor|structural glycoprotein antagonist	Vanilla	0.7557219890154279	Pearson correlation
+platelet aggregation inhibitor|structural glycoprotein antagonist	Beta	0.6162874975330385	Pearson correlation
+platelet aggregation inhibitor|structural glycoprotein antagonist	MMD	0.5366849239353898	Pearson correlation
+platelet aggregation inhibitor|structural glycoprotein antagonist	PCA	0.40575889455095937	Pearson correlation
+platelet aggregation inhibitor|structural glycoprotein antagonist	Complete	0.7397328348475309	Pearson correlation
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	Vanilla	0.458810044940886	Pearson correlation
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	Beta	-1.500131532730108	Pearson correlation
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	MMD	1.3736077189900031	Pearson correlation
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	PCA	0.24182053635055392	Pearson correlation
+norepinephrine reputake inhibitor|serotonin reuptake inhibitor	Complete	0.4594855180562594	Pearson correlation
+apoptosis stimulant|NFkB pathway inhibitor	Vanilla	0.8241232454052202	Pearson correlation
+apoptosis stimulant|NFkB pathway inhibitor	Beta	-2.533736960897606	Pearson correlation
+apoptosis stimulant|NFkB pathway inhibitor	MMD	-0.23817014490637173	Pearson correlation
+apoptosis stimulant|NFkB pathway inhibitor	PCA	-0.1295957128806966	Pearson correlation
+apoptosis stimulant|NFkB pathway inhibitor	Complete	-1.2275565636437724	Pearson correlation
+benzodiazepine receptor agonist|HDAC inhibitor	Vanilla	-3.00693114432003	Pearson correlation
+benzodiazepine receptor agonist|HDAC inhibitor	Beta	0.3601062560209695	Pearson correlation
+benzodiazepine receptor agonist|HDAC inhibitor	MMD	-0.5011646830613623	Pearson correlation
+benzodiazepine receptor agonist|HDAC inhibitor	PCA	-2.953406733782162	Pearson correlation
+benzodiazepine receptor agonist|HDAC inhibitor	Complete	-2.9488611442544035	Pearson correlation
+adrenergic receptor agonist|serotonin receptor agonist	Vanilla	1.0591370337668233	Pearson correlation
+adrenergic receptor agonist|serotonin receptor agonist	Beta	1.551903294433819	Pearson correlation
+adrenergic receptor agonist|serotonin receptor agonist	MMD	0.8364660959461796	Pearson correlation
+adrenergic receptor agonist|serotonin receptor agonist	PCA	0.7596944975312288	Pearson correlation
+adrenergic receptor agonist|serotonin receptor agonist	Complete	1.2288348115019518	Pearson correlation
+antimalarial agent|DNA inhibitor	Vanilla	-2.8689650702894616	Pearson correlation
+antimalarial agent|DNA inhibitor	Beta	0.10378571276109871	Pearson correlation
+antimalarial agent|DNA inhibitor	MMD	0.6567163349242706	Pearson correlation
+antimalarial agent|DNA inhibitor	PCA	-2.442485310195184	Pearson correlation
+antimalarial agent|DNA inhibitor	Complete	-2.311178849216019	Pearson correlation
+DNA synthesis inhibitor|microtubule inhibitor	Vanilla	-2.88207853835009	Pearson correlation
+DNA synthesis inhibitor|microtubule inhibitor	Beta	-2.6196323384864653	Pearson correlation
+DNA synthesis inhibitor|microtubule inhibitor	MMD	-1.933243730322564	Pearson correlation
+DNA synthesis inhibitor|microtubule inhibitor	PCA	-2.6075918580371162	Pearson correlation
+DNA synthesis inhibitor|microtubule inhibitor	Complete	-2.503322003621316	Pearson correlation
+potassium channel blocker|sodium channel blocker	Vanilla	-1.5668906583052753	Pearson correlation
+potassium channel blocker|sodium channel blocker	Beta	-1.7046585454586891	Pearson correlation
+potassium channel blocker|sodium channel blocker	MMD	-1.066327438557596	Pearson correlation
+potassium channel blocker|sodium channel blocker	PCA	-2.6037329878257642	Pearson correlation
+potassium channel blocker|sodium channel blocker	Complete	-2.5533275180844983	Pearson correlation
+SRC inhibitor|tubulin polymerization inhibitor	Vanilla	1.218067400676092	Pearson correlation
+SRC inhibitor|tubulin polymerization inhibitor	Beta	3.124674206076278	Pearson correlation
+SRC inhibitor|tubulin polymerization inhibitor	MMD	2.8282049013964223	Pearson correlation
+SRC inhibitor|tubulin polymerization inhibitor	PCA	2.6200698773435778	Pearson correlation
+SRC inhibitor|tubulin polymerization inhibitor	Complete	2.88985044617986	Pearson correlation
+adrenergic receptor agonist|imidazoline receptor agonist	Vanilla	-1.5670683791162614	Pearson correlation
+adrenergic receptor agonist|imidazoline receptor agonist	Beta	-1.2533045816898354	Pearson correlation
+adrenergic receptor agonist|imidazoline receptor agonist	MMD	-0.8896973509277261	Pearson correlation
+adrenergic receptor agonist|imidazoline receptor agonist	PCA	-0.8532092942371258	Pearson correlation
+adrenergic receptor agonist|imidazoline receptor agonist	Complete	-2.000057487669435	Pearson correlation
+SRC inhibitor|VEGFR inhibitor	Vanilla	0.310822282051347	Pearson correlation
+SRC inhibitor|VEGFR inhibitor	Beta	-0.08856764307886994	Pearson correlation
+SRC inhibitor|VEGFR inhibitor	MMD	0.2202015156564545	Pearson correlation
+SRC inhibitor|VEGFR inhibitor	PCA	-1.4128389719964263	Pearson correlation
+SRC inhibitor|VEGFR inhibitor	Complete	-1.6274950685587484	Pearson correlation
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	Vanilla	1.5433298184935589	Pearson correlation
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	Beta	1.3906458425482453	Pearson correlation
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	MMD	0.581208273429227	Pearson correlation
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	PCA	1.1333380739115195	Pearson correlation
+acetylcholinesterase inhibitor|monoamine oxidase inhibitor	Complete	1.1547088814764062	Pearson correlation
+cyclooxygenase inhibitor|NFkB pathway inhibitor	Vanilla	-0.886755779695455	Pearson correlation
+cyclooxygenase inhibitor|NFkB pathway inhibitor	Beta	-0.5450803316835521	Pearson correlation
+cyclooxygenase inhibitor|NFkB pathway inhibitor	MMD	-0.8532607572126779	Pearson correlation
+cyclooxygenase inhibitor|NFkB pathway inhibitor	PCA	-0.27690259026188474	Pearson correlation
+cyclooxygenase inhibitor|NFkB pathway inhibitor	Complete	-0.7913466375242358	Pearson correlation
